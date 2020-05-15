@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "trakpak/catenary"
+	"$surfaceprop" "metal"
+	"$nocull" "1"
+	%compilenonsolid
+}
