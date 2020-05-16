@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8372"
-	"mapversion" "150"
+	"mapversion" "155"
 	"formatversion" "100"
 	"prefab" "1"
 }
@@ -11,13 +11,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "193739"
-	"mapversion" "150"
+	"mapversion" "155"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -59,7 +59,7 @@ entity
 	"gmod_allowphysgun" "0"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/tu/r1536/04/j/r_r.mdl"
+	"model" "models/gstp/tu/r576/04/j/r_r.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -98,7 +98,7 @@ entity
 	"gmod_allowphysgun" "0"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/tu/r1536/04/j/r_l.mdl"
+	"model" "models/gstp/tu/r576/04/j/r_l.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -158,9 +158,9 @@ entity
 		side
 		{
 			"id" "152204"
-			"plane" "(-21 11 9) (-21 11 0) (-43 11 0)"
+			"plane" "(36 6 4) (36 6 -1.19209e-007) (20 6 -1.19209e-007)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 8.51563] 0.25"
+			"uaxis" "[1 0 0 -19.4844] 0.25"
 			"vaxis" "[0 0 -1 -22.1201] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -169,9 +169,9 @@ entity
 		side
 		{
 			"id" "152203"
-			"plane" "(-43 44 9) (-43 44 0) (-21 44 0)"
+			"plane" "(20 18 4) (20 18 -1.19209e-007) (36 18 -1.19209e-007)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 8.51563] 0.25"
+			"uaxis" "[1 0 0 -19.4844] 0.25"
 			"vaxis" "[0 0 -1 -22.1201] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -180,9 +180,9 @@ entity
 		side
 		{
 			"id" "152202"
-			"plane" "(-43 11 9) (-43 11 0) (-43 44 0)"
+			"plane" "(20 6 4) (20 6 -1.19209e-007) (20 18 -1.19209e-007)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 20] 0.25"
+			"uaxis" "[0 1 0 8] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -191,9 +191,9 @@ entity
 		side
 		{
 			"id" "152201"
-			"plane" "(-21 44 9) (-21 44 0) (-21 11 0)"
+			"plane" "(36 18 4) (36 18 -1.19209e-007) (36 6 -1.19209e-007)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 -20] 0.25"
+			"uaxis" "[0 -1 0 -8] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -202,10 +202,10 @@ entity
 		side
 		{
 			"id" "152200"
-			"plane" "(-21 44 0) (-43 44 0) (-43 11 0)"
+			"plane" "(36 18 -1.19209e-007) (20 18 -1.19209e-007) (20 6 -1.19209e-007)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 52] 0.25"
-			"vaxis" "[0 -1 0 -20] 0.25"
+			"uaxis" "[1 0 0 -40] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -213,10 +213,10 @@ entity
 		side
 		{
 			"id" "152199"
-			"plane" "(-21 11 9) (-43 11 9) (-43 44 9)"
+			"plane" "(36 6 4) (20 6 4) (20 18 4)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 0 0 -52] 0.25"
-			"vaxis" "[0 -1 0 -20] 0.25"
+			"uaxis" "[-1 0 0 40] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -241,7 +241,7 @@ entity
 {
 	"id" "193862"
 	"classname" "prop_dynamic"
-	"angles" "0 90 0"
+	"angles" "0 270 0"
 	"disablereceiveshadows" "0"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
@@ -251,7 +251,7 @@ entity
 	"gmod_allowtools" "none"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/ron/2ft/scenery/junction_lever.mdl"
+	"model" "models/gstp/mi/sw/04/r.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -266,7 +266,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"targetname" "gstp_&i_lever"
-	"origin" "-32 27 0"
+	"origin" "0 0 2"
 	editor
 	{
 		"color" "252 101 0"
@@ -295,7 +295,7 @@ entity
 		"OnTrue" "gstp_&i_r,Alpha,255,0,-1"
 		"OnTrue" "gstp_&i_lever,SetBodyGroup,1,0,-1"
 	}
-	"origin" "-32 27 21"
+	"origin" "0 8 -8"
 	editor
 	{
 		"color" "220 30 220"
