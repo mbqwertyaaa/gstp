@@ -150,7 +150,7 @@ entity
 	"wait" "-1"
 	connections
 	{
-		"OnPressed" "switch_&i_toggle,ToggleTest,,0,-1"
+		"OnPressed" "gstp_&i_toggle,ToggleTest,,0,-1"
 	}
 	solid
 	{
