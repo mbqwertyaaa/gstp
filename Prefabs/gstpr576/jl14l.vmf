@@ -2,44 +2,47 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8372"
-	"mapversion" "154"
+	"mapversion" "162"
 	"formatversion" "100"
 	"prefab" "1"
 }
-viewsettings
-{
-	"bSnapToGrid" "1"
-	"bShowGrid" "1"
-	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
-	"bShow3DGrid" "0"
-}
 world
 {
-	"id" "193739"
-	"mapversion" "154"
+	"id" "199113"
+	"mapversion" "162"
 	"classname" "worldspawn"
-	"detailmaterial" "detail/detailsprites"
-	"detailvbsp" "detail.vbsp"
-	"maxpropscreenwidth" "-1"
 	"skyname" "sky_day01_01"
+	"maxpropscreenwidth" "-1"
+	"detailvbsp" "detail.vbsp"
+	"detailmaterial" "detail/detailsprites"
 	group
 	{
-		"id" "194523"
+		"id" "199114"
 		editor
 		{
-			"color" "252 101 0"
+			"color" "160 221 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	group
 	{
-		"id" "193850"
+		"id" "199115"
 		editor
 		{
-			"color" "252 101 0"
-			"groupid" "194523"
+			"color" "160 221 0"
+			"groupid" "199114"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "199116"
+		editor
+		{
+			"color" "160 221 0"
+			"groupid" "199115"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -47,7 +50,7 @@ world
 }
 entity
 {
-	"id" "193851"
+	"id" "199117"
 	"classname" "prop_dynamic"
 	"angles" "0 270 0"
 	"DisableBoneFollowers" "0"
@@ -59,7 +62,7 @@ entity
 	"gmod_allowphysgun" "0"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/tu/r512/04/j/r_r.mdl"
+	"model" "models/gstp/tu/r576/l14/j/l_l.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -73,12 +76,12 @@ entity
 	"solid" "6"
 	"spawnflags" "256"
 	"StartDisabled" "0"
-	"targetname" "gstp_&i_r"
-	"origin" "0 0 2"
+	"targetname" "gstp_&i_l"
+	"origin" "128 0 2"
 	editor
 	{
-		"color" "252 101 0"
-		"groupid" "193850"
+		"color" "160 221 0"
+		"groupid" "199116"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -86,7 +89,7 @@ entity
 }
 entity
 {
-	"id" "193855"
+	"id" "199121"
 	"classname" "prop_dynamic"
 	"angles" "0 270 0"
 	"DisableBoneFollowers" "0"
@@ -98,7 +101,7 @@ entity
 	"gmod_allowphysgun" "0"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/tu/r512/04/j/r_l.mdl"
+	"model" "models/gstp/tu/r576/l14/j/l_r.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -112,12 +115,12 @@ entity
 	"solid" "6"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"targetname" "gstp_&i_l"
-	"origin" "0 0 2"
+	"targetname" "gstp_&i_r"
+	"origin" "128 0 2"
 	editor
 	{
-		"color" "252 101 0"
-		"groupid" "193850"
+		"color" "160 221 0"
+		"groupid" "199116"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -125,121 +128,7 @@ entity
 }
 entity
 {
-	"id" "193859"
-	"classname" "func_button"
-	"disablereceiveshadows" "0"
-	"gmod_allowphysgun" "0"
-	"gmod_allowtools" "none"
-	"hammerid" "14262"
-	"health" "0"
-	"lip" "-1"
-	"locked_sentence" "0"
-	"locked_sound" "0"
-	"movedir" "90 0 0"
-	"origin" "0 0 0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"sounds" "26"
-	"spawnflags" "1057"
-	"speed" "0"
-	"targetname" "gstp_&i_button"
-	"unlocked_sentence" "0"
-	"unlocked_sound" "0"
-	"wait" "-1"
-	connections
-	{
-		"OnPressed" "switch_&i_toggle,ToggleTest,,0,-1"
-	}
-	solid
-	{
-		"id" "193860"
-		side
-		{
-			"id" "152204"
-			"plane" "(36 6 4) (36 6 -1.19209e-007) (20 6 -1.19209e-007)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -19.4844] 0.25"
-			"vaxis" "[0 0 -1 -22.1201] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "152203"
-			"plane" "(20 18 4) (20 18 -1.19209e-007) (36 18 -1.19209e-007)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -19.4844] 0.25"
-			"vaxis" "[0 0 -1 -22.1201] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "152202"
-			"plane" "(20 6 4) (20 6 -1.19209e-007) (20 18 -1.19209e-007)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 8] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "152201"
-			"plane" "(36 18 4) (36 18 -1.19209e-007) (36 6 -1.19209e-007)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 -8] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "152200"
-			"plane" "(36 18 -1.19209e-007) (20 18 -1.19209e-007) (20 6 -1.19209e-007)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -40] 0.25"
-			"vaxis" "[0 -1 0 -8] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "152199"
-			"plane" "(36 6 4) (20 6 4) (20 18 4)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 0 0 40] 0.25"
-			"vaxis" "[0 -1 0 -8] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "252 101 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "252 101 0"
-		"groupid" "193850"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 2500]"
-	}
-}
-entity
-{
-	"id" "193862"
+	"id" "199125"
 	"classname" "prop_dynamic"
 	"angles" "0 270 0"
 	"disablereceiveshadows" "0"
@@ -251,7 +140,7 @@ entity
 	"gmod_allowtools" "none"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/mi/sw/04/r.mdl"
+	"model" "models/gstp/mi/sw/l14/l.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -266,11 +155,11 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"targetname" "gstp_&i_lever"
-	"origin" "0 0 2"
+	"origin" "128 0 2"
 	editor
 	{
-		"color" "252 101 0"
-		"groupid" "193850"
+		"color" "160 221 0"
+		"groupid" "199116"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -278,7 +167,121 @@ entity
 }
 entity
 {
-	"id" "194537"
+	"id" "199129"
+	"classname" "func_button"
+	"disablereceiveshadows" "0"
+	"gmod_allowphysgun" "0"
+	"gmod_allowtools" "none"
+	"hammerid" "14262"
+	"health" "0"
+	"lip" "-1"
+	"locked_sentence" "0"
+	"locked_sound" "0"
+	"movedir" "90 0 0"
+	"origin" "128 0 0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"sounds" "26"
+	"spawnflags" "1057"
+	"speed" "0"
+	"targetname" "gstp_&i_button"
+	"unlocked_sentence" "0"
+	"unlocked_sound" "0"
+	"wait" "-1"
+	connections
+	{
+		"OnPressed" "gstp_&i_toggle,ToggleTest,,0,-1"
+	}
+	solid
+	{
+		"id" "199131"
+		side
+		{
+			"id" "152204"
+			"plane" "(107 1 4) (107 1 0) (93 -3 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 44.5156] 0.25"
+			"vaxis" "[0 0 -1 -22.1201] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "152203"
+			"plane" "(90 9 4) (90 9 0) (104 13 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 44.5156] 0.25"
+			"vaxis" "[0 0 -1 -22.1201] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "152202"
+			"plane" "(104 13 4) (104 13 0) (107 1 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 8] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "152201"
+			"plane" "(93 -3 4) (93 -3 0) (90 9 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -8] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "152200"
+			"plane" "(104 13 0) (90 9 0) (93 -3 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 24] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "152199"
+			"plane" "(107 1 4) (93 -3 4) (90 9 4)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -24] 0.25"
+			"vaxis" "[0 -1 0 -8] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "160 221 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "160 221 0"
+		"groupid" "199116"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1000 2500]"
+	}
+}
+entity
+{
+	"id" "199132"
 	"classname" "logic_branch"
 	"InitialValue" "0"
 	"targetname" "gstp_&i_toggle"
@@ -295,10 +298,11 @@ entity
 		"OnTrue" "gstp_&i_r,Alpha,255,0,-1"
 		"OnTrue" "gstp_&i_lever,SetBodyGroup,1,0,-1"
 	}
-	"origin" "0 8 -8"
+	"origin" "128 8 -8"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "160 221 0"
+		"groupid" "199114"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1000 6500]"
