@@ -1,5 +1,5 @@
 vertexlitgeneric
 {
-$basetexture "wood\milflr002"
+$basetexture "models\gstp\milflr002"
 $surfaceprop wood_plank
 }
