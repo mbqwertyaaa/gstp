@@ -1,10 +1,5 @@
 # [Visit the Wiki tab to see information relevant to mappers.](https://github.com/mbqwertyaaa/gstp/wiki)
 
-
-
-
-
-
 filepaths
 > source .vmf 
 > > common/propsource/gstp/
@@ -13,7 +8,7 @@ filepaths
 > > common/SourceSDKBase2013Multiplayer/sourcetest/smdqc/
 > 
 > compiler output
-> >common/SourceSDKBase2013Multiplayer/sourcetest/
+> >common/SourceSDKBase2013Multiplayer/sourcetest/models/
 > 
 > final props 
 > > common/gmod/gmod/addons/gstp/ for final  
