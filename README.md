@@ -5,7 +5,7 @@
 
 
 
-> filepaths
+# filepaths
 > > source .vmf 
 > > > common/propsource/gstp/
 > > intermediate .smd & .qc
