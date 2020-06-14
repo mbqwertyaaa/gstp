@@ -1,4 +1,4 @@
-# Visit the Wiki tab to see information relevant to mappers.
+# [Visit the Wiki tab to see information relevant to mappers.](https://github.com/mbqwertyaaa/gstp/wiki)
 
 
 
