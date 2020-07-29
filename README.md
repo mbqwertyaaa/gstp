@@ -1,6 +1,8 @@
 # [Visit the Wiki tab to see information relevant to mappers.](https://github.com/mbqwertyaaa/gstp/wiki#mapping)
-
-filepaths
+  
+  Note: No raw files are available on this repo, only compiled models and a templates for mapping.  
+  
+Filepaths
 > source .vmf 
 > > common/propsource/gstp/
 > 
@@ -11,4 +13,4 @@ filepaths
 > >common/SourceSDKBase2013Multiplayer/sourcetest/models/
 > 
 > final props 
-> > common/gmod/gmod/addons/gstp/ for final  
+> > common/gmod/gmod/addons/gstp/ for git/workshop  
