@@ -14,4 +14,5 @@ Filepaths
 > 
 > final props 
 > > common/gmod/gmod/addons/gstp/ for git/workshop  
+>
 https://media.discordapp.net/attachments/721675170665988217/766793941126610944/EkX1FaSXYAIzLAc.png
