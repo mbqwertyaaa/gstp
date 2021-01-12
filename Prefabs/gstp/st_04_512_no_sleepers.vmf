@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8372"
-	"mapversion" "149"
+	"mapversion" "198"
 	"formatversion" "100"
 	"prefab" "1"
 }
@@ -16,23 +16,57 @@ viewsettings
 }
 world
 {
-	"id" "197210"
-	"mapversion" "149"
+	"id" "199823"
+	"mapversion" "198"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
 	"skyname" "sky_day01_01"
+}
+entity
+{
+	"id" "199824"
+	"classname" "func_brush"
+	"autocenter" "0"
+	"concave" "1"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"disp_nowarp" "0"
+	"InputFilter" "0"
+	"invert_exclusion" "0"
+	"mass" "50000"
+	"mat_nonormal" "0"
+	"materialpath" "models/proppertextures"
+	"modelname" "gstp/st/04/512"
+	"origin" "1024 -8192 0"
+	"physmodel" "04/512"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"scale" ".125"
+	"smoothangle" "45"
+	"smoothing" "1"
+	"snaptogrid" "1"
+	"solidbsp" "0"
+	"Solidity" "0"
+	"sourcefolder" "D:/steam/steamapps/common/Source SDK Base 2013 Multiplayer/sourcetest/smdqc"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"surfaceprop" "metal"
+	"vrad_brush_cast_shadows" "0"
+	"weldvertices" ".01"
 	solid
 	{
-		"id" "197212"
+		"id" "199825"
 		side
 		{
 			"id" "6"
-			"plane" "(7 256 2) (8 256 2) (8 -256 2)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[1 0 0 5.53906] 0.0325"
-			"vaxis" "[0 -1 0 6.76953] 0.0325"
+			"plane" "(7 256 -5) (8 256 -5) (8 -256 -5)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[1 0 0 319] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -40,10 +74,10 @@ world
 		side
 		{
 			"id" "5"
-			"plane" "(7 -256 0) (8 -256 0) (8 256 0)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[1 0 0 5.53906] 0.0325"
-			"vaxis" "[0 -1 0 6.76953] 0.0325"
+			"plane" "(7 -256 -7) (8 -256 -7) (8 256 -7)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[-1 0 0 -609] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -51,10 +85,10 @@ world
 		side
 		{
 			"id" "4"
-			"plane" "(8 256 0) (8 -256 0) (8 -256 2)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[0 1 0 -30.7695] 0.0325"
-			"vaxis" "[0 0 -1 0] 0.0325"
+			"plane" "(8 256 -7) (8 -256 -7) (8 -256 -5)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[0 0 -1 343] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -62,10 +96,10 @@ world
 		side
 		{
 			"id" "3"
-			"plane" "(7 256 0) (8 256 0) (8 256 2)"
+			"plane" "(7 256 -7) (8 256 -7) (8 256 -5)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.03125"
-			"vaxis" "[0 0 -1 0] 0.03125"
+			"vaxis" "[0 0 -1 -32] 0.03125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -73,10 +107,10 @@ world
 		side
 		{
 			"id" "2"
-			"plane" "(8 -256 0) (7 -256 0) (7 -256 2)"
+			"plane" "(8 -256 -7) (7 -256 -7) (7 -256 -5)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.03125"
-			"vaxis" "[0 0 -1 0] 0.03125"
+			"vaxis" "[0 0 -1 -32] 0.03125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -84,32 +118,31 @@ world
 		side
 		{
 			"id" "1"
-			"plane" "(7 -256 0) (7 256 0) (7 256 2)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[0 1 0 -30.7695] 0.0325"
-			"vaxis" "[0 0 -1 0] 0.0325"
+			"plane" "(7 -256 -7) (7 256 -7) (7 256 -5)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[0 0 1 415] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "115 112 0"
-			"groupid" "201988"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	solid
 	{
-		"id" "197213"
+		"id" "199826"
 		side
 		{
 			"id" "12"
-			"plane" "(-7 -256 2) (-8 -256 2) (-8 256 2)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[1 0 0 5.53906] 0.0325"
-			"vaxis" "[0 -1 0 6.76953] 0.0325"
+			"plane" "(-7 -256 -5) (-8 -256 -5) (-8 256 -5)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[1 0 0 319] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -117,10 +150,10 @@ world
 		side
 		{
 			"id" "11"
-			"plane" "(-7 256 0) (-8 256 0) (-8 -256 0)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[1 0 0 5.53906] 0.0325"
-			"vaxis" "[0 -1 0 6.76953] 0.0325"
+			"plane" "(-7 256 -7) (-8 256 -7) (-8 -256 -7)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[-1 0 0 -609] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -128,10 +161,10 @@ world
 		side
 		{
 			"id" "10"
-			"plane" "(-8 -256 0) (-8 256 0) (-8 256 2)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[0 1 0 -30.7695] 0.0325"
-			"vaxis" "[0 0 -1 0] 0.0325"
+			"plane" "(-8 -256 -7) (-8 256 -7) (-8 256 -5)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[0 0 1 295] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -139,10 +172,10 @@ world
 		side
 		{
 			"id" "9"
-			"plane" "(-8 256 0) (-7 256 0) (-7 256 2)"
+			"plane" "(-8 256 -7) (-7 256 -7) (-7 256 -5)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.03125"
-			"vaxis" "[0 0 -1 0] 0.03125"
+			"vaxis" "[0 0 -1 -32] 0.03125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -150,10 +183,10 @@ world
 		side
 		{
 			"id" "8"
-			"plane" "(-7 -256 0) (-8 -256 0) (-8 -256 2)"
+			"plane" "(-7 -256 -7) (-8 -256 -7) (-8 -256 -5)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.03125"
-			"vaxis" "[0 0 -1 0] 0.03125"
+			"vaxis" "[0 0 -1 -32] 0.03125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -161,30 +194,26 @@ world
 		side
 		{
 			"id" "7"
-			"plane" "(-7 256 0) (-7 -256 0) (-7 -256 2)"
-			"material" "TRAKPAK/RAILTOP"
-			"uaxis" "[0 1 0 -30.7695] 0.0325"
-			"vaxis" "[0 0 -1 0] 0.0325"
+			"plane" "(-7 256 -7) (-7 -256 -7) (-7 -256 -5)"
+			"material" "PROPPERTEXTURES/ENAMEL_GRAY"
+			"uaxis" "[0 0 -1 223] 0.125"
+			"vaxis" "[0 -1 0 10] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "115 112 0"
-			"groupid" "201988"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
-	group
+	editor
 	{
-		"id" "201988"
-		editor
-		{
-			"color" "115 112 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
 	}
 }
