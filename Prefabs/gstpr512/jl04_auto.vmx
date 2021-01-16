@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8372"
-	"mapversion" "80"
+	"mapversion" "81"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "80"
+	"mapversion" "81"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -183,7 +183,7 @@ entity
 	"gmod_allowtools" "none"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/tu/r512/04/j/l_r.mdl"
+	"model" "models/gstp/tu/r512/04/j/l_l.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"

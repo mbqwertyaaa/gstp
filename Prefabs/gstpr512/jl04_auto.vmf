@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8372"
-	"mapversion" "81"
+	"mapversion" "82"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,18 +14,38 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "81"
+	"mapversion" "82"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
 	"skyname" "sky_day01_01"
+	group
+	{
+		"id" "678"
+		editor
+		{
+			"color" "188 129 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "686"
+		editor
+		{
+			"color" "220 229 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 }
 entity
 {
@@ -288,7 +308,7 @@ entity
 {
 	"id" "452"
 	"classname" "trigger_multiple"
-	"origin" "0 176 4.47"
+	"origin" "0 176 1.47"
 	"spawnflags" "8"
 	"StartDisabled" "0"
 	"targetname" "switch_&i_trigger_unswitched"
@@ -314,7 +334,7 @@ entity
 		side
 		{
 			"id" "47"
-			"plane" "(7 172 10) (-7 172 10) (-7 180 10)"
+			"plane" "(7 172 6) (-7 172 6) (-7 180 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.199371 -0.979924 0 29.9032] 0.24999"
 			"vaxis" "[0.979924 0.199371 0 -5.26127] 0.24999"
@@ -325,10 +345,10 @@ entity
 		side
 		{
 			"id" "46"
-			"plane" "(-7 180 4) (7 180 4) (7 180 10)"
+			"plane" "(-7 180 4) (7 180 4) (7 180 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 -0.0138056 0 14.5833] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -336,10 +356,10 @@ entity
 		side
 		{
 			"id" "45"
-			"plane" "(7 172 4) (-7 172 4) (-7 172 10)"
+			"plane" "(7 172 4) (-7 172 4) (-7 172 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 -0.0138056 0 14.5833] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -347,10 +367,10 @@ entity
 		side
 		{
 			"id" "44"
-			"plane" "(7 180 4) (7 172 4) (7 172 10)"
+			"plane" "(7 180 4) (7 172 4) (7 172 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.908682 -0.417485 0 10.4149] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -358,24 +378,25 @@ entity
 		side
 		{
 			"id" "43"
-			"plane" "(-7 172 4) (-7 180 4) (-7 180 10)"
+			"plane" "(-7 172 4) (-7 180 4) (-7 180 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.908682 -0.417485 0 10.4149] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "188 129 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "188 129 0"
+		"groupid" "678"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 2000]"
@@ -391,10 +412,11 @@ entity
 	"model" "models/gstp/mi/04_trigger.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "0 176 7"
+	"origin" "0 176 4"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "188 129 0"
+		"groupid" "678"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -404,7 +426,7 @@ entity
 {
 	"id" "459"
 	"classname" "trigger_multiple"
-	"origin" "-30.11 173.49 4.47"
+	"origin" "-30.11 173.49 1.47"
 	"spawnflags" "8"
 	"StartDisabled" "0"
 	"targetname" "switch_&i_trigger_switched"
@@ -419,7 +441,7 @@ entity
 		side
 		{
 			"id" "54"
-			"plane" "(-25.195 179.666 4) (-38.3201 174.786 4) (-35.5289 167.292 4)"
+			"plane" "(-25.1953 179.666 4) (-38.3164 174.787 4) (-35.5273 167.295 4)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.154707 -0.98796 0 44.5324] 0.24999"
 			"vaxis" "[-0.98796 -0.154708 0 55.0293] 0.24999"
@@ -430,7 +452,7 @@ entity
 		side
 		{
 			"id" "53"
-			"plane" "(-22.4039 172.173 10) (-35.5289 167.292 10) (-38.3165 174.794 10)"
+			"plane" "(-22.4023 172.17 6) (-35.5195 167.293 6) (-38.3125 174.793 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.154707 -0.98796 0 44.5324] 0.24999"
 			"vaxis" "[-0.98796 -0.154708 0 55.0293] 0.24999"
@@ -441,10 +463,10 @@ entity
 		side
 		{
 			"id" "52"
-			"plane" "(-38.3195 174.785 4) (-25.1937 179.666 4) (-25.1929 179.67 10)"
+			"plane" "(-38.3164 174.787 4) (-25.1939 179.667 4) (-25.1953 179.67 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.939207 0.343398 0 -6.52675] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -452,10 +474,10 @@ entity
 		side
 		{
 			"id" "51"
-			"plane" "(-22.4071 172.171 4) (-35.5295 167.293 4) (-35.5284 167.291 10)"
+			"plane" "(-22.4063 172.172 4) (-35.5313 167.293 4) (-35.5273 167.293 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.939207 0.343398 0 -6.52675] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -463,10 +485,10 @@ entity
 		side
 		{
 			"id" "50"
-			"plane" "(-35.5272 167.29 4) (-38.3153 174.789 4) (-38.3113 174.792 10)"
+			"plane" "(-35.5293 167.297 4) (-38.3164 174.793 4) (-38.3125 174.789 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-0.858873 -0.512188 0 50.9971] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -474,24 +496,25 @@ entity
 		side
 		{
 			"id" "49"
-			"plane" "(-25.1951 179.67 4) (-22.4063 172.171 4) (-22.4063 172.171 10)"
+			"plane" "(-25.1953 179.668 4) (-22.4072 172.171 4) (-22.4063 172.172 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-0.858873 -0.512188 0 50.9971] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "220 30 220"
+			"color" "220 229 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "220 30 220"
+		"color" "220 229 0"
+		"groupid" "686"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 2000]"
@@ -507,10 +530,11 @@ entity
 	"model" "models/gstp/mi/04_trigger.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-30.2691 173.501 7"
+	"origin" "-30.2691 173.501 4"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 229 0"
+		"groupid" "686"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"

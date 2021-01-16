@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8372"
-	"mapversion" "82"
+	"mapversion" "83"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "82"
+	"mapversion" "83"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -288,7 +288,7 @@ entity
 {
 	"id" "452"
 	"classname" "trigger_multiple"
-	"origin" "0 496 4.47"
+	"origin" "0 496 4.16"
 	"spawnflags" "8"
 	"StartDisabled" "0"
 	"targetname" "switch_&i_trigger_unswitched"
@@ -314,7 +314,7 @@ entity
 		side
 		{
 			"id" "47"
-			"plane" "(7 492 10) (-7 492 10) (-7 500 10)"
+			"plane" "(7 492 6) (-7 492 6) (-7 500 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.199371 -0.979924 0 4.25606] 0.24999"
 			"vaxis" "[0.979924 0.199371 0 -4.46636] 0.24999"
@@ -325,10 +325,10 @@ entity
 		side
 		{
 			"id" "46"
-			"plane" "(-7 500 4) (7 500 4) (7 500 10)"
+			"plane" "(-7 500 4) (7 500 4) (7 500 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 -0.0138056 0 32.2545] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -336,10 +336,10 @@ entity
 		side
 		{
 			"id" "45"
-			"plane" "(7 492 4) (-7 492 4) (-7 492 10)"
+			"plane" "(7 492 4) (-7 492 4) (-7 492 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 -0.0138056 0 32.2545] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -347,10 +347,10 @@ entity
 		side
 		{
 			"id" "44"
-			"plane" "(7 500 4) (7 492 4) (7 492 10)"
+			"plane" "(7 500 4) (7 492 4) (7 492 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.908682 -0.417485 0 32.7957] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -358,10 +358,10 @@ entity
 		side
 		{
 			"id" "43"
-			"plane" "(-7 492 4) (-7 500 4) (-7 500 10)"
+			"plane" "(-7 492 4) (-7 500 4) (-7 500 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.908682 -0.417485 0 32.7957] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -391,7 +391,7 @@ entity
 	"model" "models/gstp/mi/04_trigger.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "0 496 7"
+	"origin" "0 496 4"
 	editor
 	{
 		"color" "255 255 0"
@@ -404,7 +404,7 @@ entity
 {
 	"id" "773"
 	"classname" "trigger_multiple"
-	"origin" "-64 16 4.47"
+	"origin" "-64 16 4.16"
 	"spawnflags" "8"
 	"StartDisabled" "0"
 	"targetname" "switch_&i_trigger_unswitched"
@@ -430,7 +430,7 @@ entity
 		side
 		{
 			"id" "65"
-			"plane" "(-57 12 10) (-71 12 10) (-71 20 10)"
+			"plane" "(-57 12 6) (-71 12 6) (-71 20 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.199371 -0.979924 0 29.7677] 0.24999"
 			"vaxis" "[0.979924 0.199371 0 53.2119] 0.24999"
@@ -441,10 +441,10 @@ entity
 		side
 		{
 			"id" "64"
-			"plane" "(-71 20 4) (-57 20 4) (-57 20 10)"
+			"plane" "(-71 20 4) (-57 20 4) (-57 20 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 -0.0138056 0 -58.2523] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -452,10 +452,10 @@ entity
 		side
 		{
 			"id" "63"
-			"plane" "(-57 12 4) (-71 12 4) (-71 12 10)"
+			"plane" "(-57 12 4) (-71 12 4) (-71 12 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 -0.0138056 0 -58.2523] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -463,10 +463,10 @@ entity
 		side
 		{
 			"id" "62"
-			"plane" "(-57 20 4) (-57 12 4) (-57 12 10)"
+			"plane" "(-57 20 4) (-57 12 4) (-57 12 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.908682 -0.417485 0 39.847] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -474,10 +474,10 @@ entity
 		side
 		{
 			"id" "61"
-			"plane" "(-71 12 4) (-71 20 4) (-71 20 10)"
+			"plane" "(-71 12 4) (-71 20 4) (-71 20 6)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0.908682 -0.417485 0 39.847] 0.25"
-			"vaxis" "[0 0 -1 12] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -507,7 +507,7 @@ entity
 	"model" "models/gstp/mi/04_trigger.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-64 16 7"
+	"origin" "-64 16 4"
 	editor
 	{
 		"color" "255 255 0"
