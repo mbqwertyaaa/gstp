@@ -14,7 +14,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "0"
 }
 world
@@ -40,7 +40,7 @@ entity
 	"locked_sentence" "0"
 	"locked_sound" "0"
 	"movedir" "90 0 0"
-	"origin" "-24 70.5 4"
+	"origin" "24 12 4"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
@@ -62,7 +62,7 @@ entity
 		side
 		{
 			"id" "30"
-			"plane" "(-12 64.5 6) (-12 64.5 4) (-36 64.5 4)"
+			"plane" "(36 6 6) (36 6 4) (12 6 4)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 -19.4846] 0.25"
 			"vaxis" "[0 0 -1 -6.1201] 0.25"
@@ -73,7 +73,7 @@ entity
 		side
 		{
 			"id" "29"
-			"plane" "(-36 76.5 6) (-36 76.5 4) (-12 76.5 4)"
+			"plane" "(12 18 6) (12 18 4) (36 18 4)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 -19.4846] 0.25"
 			"vaxis" "[0 0 -1 -6.1201] 0.25"
@@ -84,9 +84,9 @@ entity
 		side
 		{
 			"id" "28"
-			"plane" "(-36 64.5 6) (-36 64.5 4) (-36 76.5 4)"
+			"plane" "(12 6 6) (12 6 4) (12 18 4)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 -2] 0.25"
+			"uaxis" "[0 1 0 40] 0.25"
 			"vaxis" "[0 0 -1 16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -95,9 +95,9 @@ entity
 		side
 		{
 			"id" "27"
-			"plane" "(-12 76.5 6) (-12 76.5 4) (-12 64.5 4)"
+			"plane" "(36 18 6) (36 18 4) (36 6 4)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 2] 0.25"
+			"uaxis" "[0 -1 0 -40] 0.25"
 			"vaxis" "[0 0 -1 16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -106,10 +106,10 @@ entity
 		side
 		{
 			"id" "26"
-			"plane" "(-12 76.5 4) (-36 76.5 4) (-36 64.5 4)"
+			"plane" "(36 18 4) (12 18 4) (12 6 4)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 -40] 0.25"
-			"vaxis" "[0 -1 0 2] 0.25"
+			"vaxis" "[0 -1 0 -40] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -117,10 +117,10 @@ entity
 		side
 		{
 			"id" "25"
-			"plane" "(-12 64.5 6) (-36 64.5 6) (-36 76.5 6)"
+			"plane" "(36 6 6) (12 6 6) (12 18 6)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 40] 0.25"
-			"vaxis" "[0 -1 0 2] 0.25"
+			"vaxis" "[0 -1 0 -40] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -183,7 +183,7 @@ entity
 	"gmod_allowtools" "none"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/tu/r576/04/n/l_l.mdl"
+	"model" "models/gstp/tu/r576/04/j/r_r.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -222,7 +222,7 @@ entity
 	"gmod_allowtools" "none"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/tu/r576/04/n/l_r.mdl"
+	"model" "models/gstp/tu/r576/04/j/r_l.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -260,7 +260,7 @@ entity
 	"gmod_allowtools" "none"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/gstp/mi/04/swl.mdl"
+	"model" "models/gstp/mi/04/swr.mdl"
 	"modelscale" "1.0"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -275,7 +275,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"targetname" "switch_&i_lever"
-	"origin" "0 58.5 4"
+	"origin" "0 0 4"
 	editor
 	{
 		"color" "220 30 220"
@@ -288,7 +288,7 @@ entity
 {
 	"id" "452"
 	"classname" "trigger_multiple"
-	"origin" "0 496 4.47"
+	"origin" "0 191.95 4.47"
 	"spawnflags" "8"
 	"StartDisabled" "0"
 	"targetname" "switch_&i_trigger_unswitched"
@@ -303,10 +303,10 @@ entity
 		side
 		{
 			"id" "48"
-			"plane" "(7 500 4) (-7 500 4) (-7 492 4)"
+			"plane" "(7 195.95 4) (-7 195.95 4) (-7 187.95 4)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.199371 -0.979924 0 4.25606] 0.24999"
-			"vaxis" "[0.979924 0.199371 0 -4.46636] 0.24999"
+			"uaxis" "[0.199371 -0.979924 0 28.4261] 0.24999"
+			"vaxis" "[0.979924 0.199371 0 -17.9819] 0.24999"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -314,10 +314,10 @@ entity
 		side
 		{
 			"id" "47"
-			"plane" "(7 492 10) (-7 492 10) (-7 500 10)"
+			"plane" "(7 187.95 10) (-7 187.95 10) (-7 195.95 10)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.199371 -0.979924 0 4.25606] 0.24999"
-			"vaxis" "[0.979924 0.199371 0 -4.46636] 0.24999"
+			"uaxis" "[0.199371 -0.979924 0 28.4261] 0.24999"
+			"vaxis" "[0.979924 0.199371 0 -17.9819] 0.24999"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -325,9 +325,9 @@ entity
 		side
 		{
 			"id" "46"
-			"plane" "(-7 500 4) (7 500 4) (7 500 10)"
+			"plane" "(-7 195.95 4) (7 195.95 4) (7 195.95 10)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-1 -0.0138056 0 32.2545] 0.25"
+			"uaxis" "[-1 -0.0138056 0 15.4641] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -336,9 +336,9 @@ entity
 		side
 		{
 			"id" "45"
-			"plane" "(7 492 4) (-7 492 4) (-7 492 10)"
+			"plane" "(7 187.95 4) (-7 187.95 4) (-7 187.95 10)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-1 -0.0138056 0 32.2545] 0.25"
+			"uaxis" "[-1 -0.0138056 0 15.4641] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -347,9 +347,9 @@ entity
 		side
 		{
 			"id" "44"
-			"plane" "(7 500 4) (7 492 4) (7 492 10)"
+			"plane" "(7 195.95 4) (7 187.95 4) (7 187.95 10)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.908682 -0.417485 0 32.7957] 0.25"
+			"uaxis" "[0.908682 -0.417485 0 37.051] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -358,9 +358,9 @@ entity
 		side
 		{
 			"id" "43"
-			"plane" "(-7 492 4) (-7 500 4) (-7 500 10)"
+			"plane" "(-7 187.95 4) (-7 195.95 4) (-7 195.95 10)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.908682 -0.417485 0 32.7957] 0.25"
+			"uaxis" "[0.908682 -0.417485 0 37.051] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -391,7 +391,7 @@ entity
 	"model" "models/gstp/mi/04_trigger.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "0 496 7"
+	"origin" "0 191.95 7"
 	editor
 	{
 		"color" "255 255 0"
@@ -402,48 +402,48 @@ entity
 }
 entity
 {
-	"id" "773"
+	"id" "459"
 	"classname" "trigger_multiple"
-	"origin" "-64 16 4.47"
+	"origin" "33.9 195.08 4.47"
 	"spawnflags" "8"
 	"StartDisabled" "0"
-	"targetname" "switch_&i_trigger_unswitched"
+	"targetname" "switch_&i_trigger_switched"
 	"wait" "1"
 	connections
 	{
-		"OnStartTouchAll" "switch_&i_toggle,SetValueTest,0,0,-1"
+		"OnStartTouchAll" "switch_&i_toggle,SetValueTest,1,0,-1"
 	}
 	solid
 	{
-		"id" "774"
+		"id" "460"
 		side
 		{
-			"id" "66"
-			"plane" "(-57 20 4) (-71 20 4) (-71 12 4)"
+			"id" "54"
+			"plane" "(26.1943 193.769 4) (39.3149 188.892 4) (42.104 196.384 4)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.199371 -0.979924 0 29.7677] 0.24999"
-			"vaxis" "[0.979924 0.199371 0 53.2119] 0.24999"
+			"uaxis" "[-0.154707 -0.98796 0 -59.7719] 0.24999"
+			"vaxis" "[0.98796 -0.154708 0 -10.5736] 0.24999"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "65"
-			"plane" "(-57 12 10) (-71 12 10) (-71 20 10)"
+			"id" "53"
+			"plane" "(28.9829 201.268 10) (42.1001 196.39 10) (39.3071 188.89 10)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.199371 -0.979924 0 29.7677] 0.24999"
-			"vaxis" "[0.979924 0.199371 0 53.2119] 0.24999"
+			"uaxis" "[-0.154707 -0.98796 0 -59.7719] 0.24999"
+			"vaxis" "[0.98796 -0.154708 0 -10.5736] 0.24999"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "64"
-			"plane" "(-71 20 4) (-57 20 4) (-57 20 10)"
+			"id" "52"
+			"plane" "(42.0962 196.39 10) (28.9829 201.267 10) (28.9815 201.264 4)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-1 -0.0138056 0 -58.2523] 0.25"
+			"uaxis" "[-0.939207 0.343398 0 42.0369] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -451,10 +451,10 @@ entity
 		}
 		side
 		{
-			"id" "63"
-			"plane" "(-57 12 4) (-71 12 4) (-71 12 10)"
+			"id" "51"
+			"plane" "(26.1937 193.768 10) (39.3149 188.89 10) (39.3188 188.89 4)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-1 -0.0138056 0 -58.2523] 0.25"
+			"uaxis" "[-0.939207 0.343398 0 42.0369] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -462,10 +462,10 @@ entity
 		}
 		side
 		{
-			"id" "62"
-			"plane" "(-57 20 4) (-57 12 4) (-57 12 10)"
+			"id" "50"
+			"plane" "(39.3128 188.889 10) (42.1001 196.386 10) (42.104 196.39 4)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.908682 -0.417485 0 39.847] 0.25"
+			"uaxis" "[0.858873 -0.512188 0 -45.7679] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -473,10 +473,10 @@ entity
 		}
 		side
 		{
-			"id" "61"
-			"plane" "(-71 12 4) (-71 20 4) (-71 20 10)"
+			"id" "49"
+			"plane" "(28.9809 201.261 10) (26.1938 193.769 10) (26.1948 193.768 4)"
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[0.908682 -0.417485 0 39.847] 0.25"
+			"uaxis" "[0.858873 -0.512188 0 -45.7679] 0.25"
 			"vaxis" "[0 0 -1 12] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
@@ -499,172 +499,21 @@ entity
 }
 entity
 {
-	"id" "776"
+	"id" "651"
 	"classname" "prop_static"
-	"angles" "0 90 0"
+	"angles" "0 70.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"model" "models/gstp/mi/04_trigger.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-64 16 7"
+	"origin" "34.0567 195.098 7"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "788"
-	"classname" "prop_dynamic"
-	"angles" "0 90 0"
-	"disablereceiveshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"gmod_allowphysgun" "0"
-	"gmod_allowtools" "none"
-	"MaxAnimTime" "10"
-	"MinAnimTime" "5"
-	"model" "models/gstp/mi/04/swl.mdl"
-	"modelscale" "1.0"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"SetBodyGroup" "0"
-	"skin" "0"
-	"solid" "0"
-	"spawnflags" "0"
-	"StartDisabled" "0"
-	"targetname" "switch_&i_lever"
-	"origin" "-64 453.5 4"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "792"
-	"classname" "func_button"
-	"disablereceiveshadows" "0"
-	"gmod_allowphysgun" "0"
-	"gmod_allowtools" "none"
-	"hammerid" "14262"
-	"health" "0"
-	"lip" "-1"
-	"locked_sentence" "0"
-	"locked_sound" "0"
-	"movedir" "90 0 0"
-	"origin" "-40 441.5 4"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"sounds" "26"
-	"spawnflags" "1057"
-	"speed" "0"
-	"targetname" "switch_&i_button"
-	"unlocked_sentence" "0"
-	"unlocked_sound" "0"
-	"wait" "-1"
-	connections
-	{
-		"OnPressed" "switch_&i_toggle,ToggleTest,,0,-1"
-	}
-	solid
-	{
-		"id" "793"
-		side
-		{
-			"id" "78"
-			"plane" "(-52 447.5 6) (-52 447.5 4) (-28 447.5 4)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 0 0 44.5152] 0.25"
-			"vaxis" "[0 0 -1 -6.1201] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "77"
-			"plane" "(-28 435.5 6) (-28 435.5 4) (-52 435.5 4)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 0 0 44.5152] 0.25"
-			"vaxis" "[0 0 -1 -6.1201] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "76"
-			"plane" "(-28 447.5 6) (-28 447.5 4) (-28 435.5 4)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 -2] 0.25"
-			"vaxis" "[0 0 -1 16] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "75"
-			"plane" "(-52 435.5 6) (-52 435.5 4) (-52 447.5 4)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 2] 0.25"
-			"vaxis" "[0 0 -1 16] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "74"
-			"plane" "(-52 435.5 4) (-28 435.5 4) (-28 447.5 4)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 0 0 24] 0.25"
-			"vaxis" "[0 1 0 2] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "73"
-			"plane" "(-52 447.5 6) (-28 447.5 6) (-28 435.5 6)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -24] 0.25"
-			"vaxis" "[0 1 0 2] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 2500]"
 	}
 }
 cameras
