@@ -1,0 +1,1971 @@
+Folder PATH listing for volume DATA
+Volume serial number is 82E2-3FFB
+D:.
+|   tree.txt
+|   tree2.txt
+|   
+\---gstp
+    +---cu
+    |   +---r1024
+    |   |       0090.dx80.vtx
+    |   |       0090.dx90.vtx
+    |   |       0090.mdl
+    |   |       0090.phy
+    |   |       0090.sw.vtx
+    |   |       0090.vvd
+    |   |       l0014.dx80.vtx
+    |   |       l0014.dx90.vtx
+    |   |       l0014.mdl
+    |   |       l0014.phy
+    |   |       l0014.sw.vtx
+    |   |       l0014.vvd
+    |   |       l0024.dx80.vtx
+    |   |       l0024.dx90.vtx
+    |   |       l0024.mdl
+    |   |       l0024.phy
+    |   |       l0024.sw.vtx
+    |   |       l0024.vvd
+    |   |       l0044.dx80.vtx
+    |   |       l0044.dx90.vtx
+    |   |       l0044.mdl
+    |   |       l0044.phy
+    |   |       l0044.sw.vtx
+    |   |       l0044.vvd
+    |   |       l1424.dx80.vtx
+    |   |       l1424.dx90.vtx
+    |   |       l1424.mdl
+    |   |       l1424.phy
+    |   |       l1424.sw.vtx
+    |   |       l1424.vvd
+    |   |       l1444.dx80.vtx
+    |   |       l1444.dx90.vtx
+    |   |       l1444.mdl
+    |   |       l1444.phy
+    |   |       l1444.sw.vtx
+    |   |       l1444.vvd
+    |   |       l2444.dx80.vtx
+    |   |       l2444.dx90.vtx
+    |   |       l2444.mdl
+    |   |       l2444.phy
+    |   |       l2444.sw.vtx
+    |   |       l2444.vvd
+    |   |       r0014.dx80.vtx
+    |   |       r0014.dx90.vtx
+    |   |       r0014.mdl
+    |   |       r0014.phy
+    |   |       r0014.sw.vtx
+    |   |       r0014.vvd
+    |   |       r0024.dx80.vtx
+    |   |       r0024.dx90.vtx
+    |   |       r0024.mdl
+    |   |       r0024.phy
+    |   |       r0024.sw.vtx
+    |   |       r0024.vvd
+    |   |       r0044.dx80.vtx
+    |   |       r0044.dx90.vtx
+    |   |       r0044.mdl
+    |   |       r0044.phy
+    |   |       r0044.sw.vtx
+    |   |       r0044.vvd
+    |   |       r1424.dx80.vtx
+    |   |       r1424.dx90.vtx
+    |   |       r1424.mdl
+    |   |       r1424.phy
+    |   |       r1424.sw.vtx
+    |   |       r1424.vvd
+    |   |       r1444.dx80.vtx
+    |   |       r1444.dx90.vtx
+    |   |       r1444.mdl
+    |   |       r1444.phy
+    |   |       r1444.sw.vtx
+    |   |       r1444.vvd
+    |   |       r2444.dx80.vtx
+    |   |       r2444.dx90.vtx
+    |   |       r2444.mdl
+    |   |       r2444.phy
+    |   |       r2444.sw.vtx
+    |   |       r2444.vvd
+    |   |       
+    |   +---r1088
+    |   |       0090.dx80.vtx
+    |   |       0090.dx90.vtx
+    |   |       0090.mdl
+    |   |       0090.phy
+    |   |       0090.sw.vtx
+    |   |       0090.vvd
+    |   |       l0014.dx80.vtx
+    |   |       l0014.dx90.vtx
+    |   |       l0014.mdl
+    |   |       l0014.phy
+    |   |       l0014.sw.vtx
+    |   |       l0014.vvd
+    |   |       l0024.dx80.vtx
+    |   |       l0024.dx90.vtx
+    |   |       l0024.mdl
+    |   |       l0024.phy
+    |   |       l0024.sw.vtx
+    |   |       l0024.vvd
+    |   |       l0044.dx80.vtx
+    |   |       l0044.dx90.vtx
+    |   |       l0044.mdl
+    |   |       l0044.phy
+    |   |       l0044.sw.vtx
+    |   |       l0044.vvd
+    |   |       l1424.dx80.vtx
+    |   |       l1424.dx90.vtx
+    |   |       l1424.mdl
+    |   |       l1424.phy
+    |   |       l1424.sw.vtx
+    |   |       l1424.vvd
+    |   |       l1444.dx80.vtx
+    |   |       l1444.dx90.vtx
+    |   |       l1444.mdl
+    |   |       l1444.phy
+    |   |       l1444.sw.vtx
+    |   |       l1444.vvd
+    |   |       l2444.dx80.vtx
+    |   |       l2444.dx90.vtx
+    |   |       l2444.mdl
+    |   |       l2444.phy
+    |   |       l2444.sw.vtx
+    |   |       l2444.vvd
+    |   |       r0014.dx80.vtx
+    |   |       r0014.dx90.vtx
+    |   |       r0014.mdl
+    |   |       r0014.phy
+    |   |       r0014.sw.vtx
+    |   |       r0014.vvd
+    |   |       r0024.dx80.vtx
+    |   |       r0024.dx90.vtx
+    |   |       r0024.mdl
+    |   |       r0024.phy
+    |   |       r0024.sw.vtx
+    |   |       r0024.vvd
+    |   |       r0044.dx80.vtx
+    |   |       r0044.dx90.vtx
+    |   |       r0044.mdl
+    |   |       r0044.phy
+    |   |       r0044.sw.vtx
+    |   |       r0044.vvd
+    |   |       r1424.dx80.vtx
+    |   |       r1424.dx90.vtx
+    |   |       r1424.mdl
+    |   |       r1424.phy
+    |   |       r1424.sw.vtx
+    |   |       r1424.vvd
+    |   |       r1444.dx80.vtx
+    |   |       r1444.dx90.vtx
+    |   |       r1444.mdl
+    |   |       r1444.phy
+    |   |       r1444.sw.vtx
+    |   |       r1444.vvd
+    |   |       r2444.dx80.vtx
+    |   |       r2444.dx90.vtx
+    |   |       r2444.mdl
+    |   |       r2444.phy
+    |   |       r2444.sw.vtx
+    |   |       r2444.vvd
+    |   |       
+    |   +---r1536
+    |   |       0090.dx80.vtx
+    |   |       0090.dx90.vtx
+    |   |       0090.mdl
+    |   |       0090.phy
+    |   |       0090.sw.vtx
+    |   |       0090.vvd
+    |   |       l0014.dx80.vtx
+    |   |       l0014.dx90.vtx
+    |   |       l0014.mdl
+    |   |       l0014.phy
+    |   |       l0014.sw.vtx
+    |   |       l0014.vvd
+    |   |       l0024.dx80.vtx
+    |   |       l0024.dx90.vtx
+    |   |       l0024.mdl
+    |   |       l0024.phy
+    |   |       l0024.sw.vtx
+    |   |       l0024.vvd
+    |   |       l0044.dx80.vtx
+    |   |       l0044.dx90.vtx
+    |   |       l0044.mdl
+    |   |       l0044.phy
+    |   |       l0044.sw.vtx
+    |   |       l0044.vvd
+    |   |       l1424.dx80.vtx
+    |   |       l1424.dx90.vtx
+    |   |       l1424.mdl
+    |   |       l1424.phy
+    |   |       l1424.sw.vtx
+    |   |       l1424.vvd
+    |   |       l1444.dx80.vtx
+    |   |       l1444.dx90.vtx
+    |   |       l1444.mdl
+    |   |       l1444.phy
+    |   |       l1444.sw.vtx
+    |   |       l1444.vvd
+    |   |       l2444.dx80.vtx
+    |   |       l2444.dx90.vtx
+    |   |       l2444.mdl
+    |   |       l2444.phy
+    |   |       l2444.sw.vtx
+    |   |       l2444.vvd
+    |   |       r0014.dx80.vtx
+    |   |       r0014.dx90.vtx
+    |   |       r0014.mdl
+    |   |       r0014.phy
+    |   |       r0014.sw.vtx
+    |   |       r0014.vvd
+    |   |       r0024.dx80.vtx
+    |   |       r0024.dx90.vtx
+    |   |       r0024.mdl
+    |   |       r0024.phy
+    |   |       r0024.sw.vtx
+    |   |       r0024.vvd
+    |   |       r0044.dx80.vtx
+    |   |       r0044.dx90.vtx
+    |   |       r0044.mdl
+    |   |       r0044.phy
+    |   |       r0044.sw.vtx
+    |   |       r0044.vvd
+    |   |       r1424.dx80.vtx
+    |   |       r1424.dx90.vtx
+    |   |       r1424.mdl
+    |   |       r1424.phy
+    |   |       r1424.sw.vtx
+    |   |       r1424.vvd
+    |   |       r1444.dx80.vtx
+    |   |       r1444.dx90.vtx
+    |   |       r1444.mdl
+    |   |       r1444.phy
+    |   |       r1444.sw.vtx
+    |   |       r1444.vvd
+    |   |       r2444.dx80.vtx
+    |   |       r2444.dx90.vtx
+    |   |       r2444.mdl
+    |   |       r2444.phy
+    |   |       r2444.sw.vtx
+    |   |       r2444.vvd
+    |   |       r_r.dx80.vtx
+    |   |       r_r.dx90.vtx
+    |   |       r_r.mdl
+    |   |       r_r.phy
+    |   |       r_r.sw.vtx
+    |   |       r_r.vvd
+    |   |       
+    |   +---r1600
+    |   |       0090.dx80.vtx
+    |   |       0090.dx90.vtx
+    |   |       0090.mdl
+    |   |       0090.phy
+    |   |       0090.sw.vtx
+    |   |       0090.vvd
+    |   |       l0014.dx80.vtx
+    |   |       l0014.dx90.vtx
+    |   |       l0014.mdl
+    |   |       l0014.phy
+    |   |       l0014.sw.vtx
+    |   |       l0014.vvd
+    |   |       l0024.dx80.vtx
+    |   |       l0024.dx90.vtx
+    |   |       l0024.mdl
+    |   |       l0024.phy
+    |   |       l0024.sw.vtx
+    |   |       l0024.vvd
+    |   |       l0044.dx80.vtx
+    |   |       l0044.dx90.vtx
+    |   |       l0044.mdl
+    |   |       l0044.phy
+    |   |       l0044.sw.vtx
+    |   |       l0044.vvd
+    |   |       l1424.dx80.vtx
+    |   |       l1424.dx90.vtx
+    |   |       l1424.mdl
+    |   |       l1424.phy
+    |   |       l1424.sw.vtx
+    |   |       l1424.vvd
+    |   |       l1444.dx80.vtx
+    |   |       l1444.dx90.vtx
+    |   |       l1444.mdl
+    |   |       l1444.phy
+    |   |       l1444.sw.vtx
+    |   |       l1444.vvd
+    |   |       l2444.dx80.vtx
+    |   |       l2444.dx90.vtx
+    |   |       l2444.mdl
+    |   |       l2444.phy
+    |   |       l2444.sw.vtx
+    |   |       l2444.vvd
+    |   |       r0014.dx80.vtx
+    |   |       r0014.dx90.vtx
+    |   |       r0014.mdl
+    |   |       r0014.phy
+    |   |       r0014.sw.vtx
+    |   |       r0014.vvd
+    |   |       r0024.dx80.vtx
+    |   |       r0024.dx90.vtx
+    |   |       r0024.mdl
+    |   |       r0024.phy
+    |   |       r0024.sw.vtx
+    |   |       r0024.vvd
+    |   |       r0044.dx80.vtx
+    |   |       r0044.dx90.vtx
+    |   |       r0044.mdl
+    |   |       r0044.phy
+    |   |       r0044.sw.vtx
+    |   |       r0044.vvd
+    |   |       r1424.dx80.vtx
+    |   |       r1424.dx90.vtx
+    |   |       r1424.mdl
+    |   |       r1424.phy
+    |   |       r1424.sw.vtx
+    |   |       r1424.vvd
+    |   |       r1444.dx80.vtx
+    |   |       r1444.dx90.vtx
+    |   |       r1444.mdl
+    |   |       r1444.phy
+    |   |       r1444.sw.vtx
+    |   |       r1444.vvd
+    |   |       r2444.dx80.vtx
+    |   |       r2444.dx90.vtx
+    |   |       r2444.mdl
+    |   |       r2444.phy
+    |   |       r2444.sw.vtx
+    |   |       r2444.vvd
+    |   |       r_r.dx80.vtx
+    |   |       r_r.dx90.vtx
+    |   |       r_r.mdl
+    |   |       r_r.phy
+    |   |       r_r.sw.vtx
+    |   |       r_r.vvd
+    |   |       r_rx.dx80.vtx
+    |   |       r_rx.dx90.vtx
+    |   |       r_rx.mdl
+    |   |       r_rx.phy
+    |   |       r_rx.sw.vtx
+    |   |       r_rx.vvd
+    |   |       
+    |   +---r512
+    |   |       0090.dx80.vtx
+    |   |       0090.dx90.vtx
+    |   |       0090.mdl
+    |   |       0090.phy
+    |   |       0090.sw.vtx
+    |   |       0090.vvd
+    |   |       l0014.dx80.vtx
+    |   |       l0014.dx90.vtx
+    |   |       l0014.mdl
+    |   |       l0014.phy
+    |   |       l0014.sw.vtx
+    |   |       l0014.vvd
+    |   |       l0024.dx80.vtx
+    |   |       l0024.dx90.vtx
+    |   |       l0024.mdl
+    |   |       l0024.phy
+    |   |       l0024.sw.vtx
+    |   |       l0024.vvd
+    |   |       l0044.dx80.vtx
+    |   |       l0044.dx90.vtx
+    |   |       l0044.mdl
+    |   |       l0044.phy
+    |   |       l0044.sw.vtx
+    |   |       l0044.vvd
+    |   |       l1424.dx80.vtx
+    |   |       l1424.dx90.vtx
+    |   |       l1424.mdl
+    |   |       l1424.phy
+    |   |       l1424.sw.vtx
+    |   |       l1424.vvd
+    |   |       l1444.dx80.vtx
+    |   |       l1444.dx90.vtx
+    |   |       l1444.mdl
+    |   |       l1444.phy
+    |   |       l1444.sw.vtx
+    |   |       l1444.vvd
+    |   |       l2444.dx80.vtx
+    |   |       l2444.dx90.vtx
+    |   |       l2444.mdl
+    |   |       l2444.phy
+    |   |       l2444.sw.vtx
+    |   |       l2444.vvd
+    |   |       ls.dx80.vtx
+    |   |       ls.dx90.vtx
+    |   |       ls.mdl
+    |   |       ls.phy
+    |   |       ls.sw.vtx
+    |   |       ls.vvd
+    |   |       r0014.dx80.vtx
+    |   |       r0014.dx90.vtx
+    |   |       r0014.mdl
+    |   |       r0014.phy
+    |   |       r0014.sw.vtx
+    |   |       r0014.vvd
+    |   |       r0024.dx80.vtx
+    |   |       r0024.dx90.vtx
+    |   |       r0024.mdl
+    |   |       r0024.phy
+    |   |       r0024.sw.vtx
+    |   |       r0024.vvd
+    |   |       r0044.dx80.vtx
+    |   |       r0044.dx90.vtx
+    |   |       r0044.mdl
+    |   |       r0044.phy
+    |   |       r0044.sw.vtx
+    |   |       r0044.vvd
+    |   |       r1424.dx80.vtx
+    |   |       r1424.dx90.vtx
+    |   |       r1424.mdl
+    |   |       r1424.phy
+    |   |       r1424.sw.vtx
+    |   |       r1424.vvd
+    |   |       r1444.dx80.vtx
+    |   |       r1444.dx90.vtx
+    |   |       r1444.mdl
+    |   |       r1444.phy
+    |   |       r1444.sw.vtx
+    |   |       r1444.vvd
+    |   |       r2444.dx80.vtx
+    |   |       r2444.dx90.vtx
+    |   |       r2444.mdl
+    |   |       r2444.phy
+    |   |       r2444.sw.vtx
+    |   |       r2444.vvd
+    |   |       rs.dx80.vtx
+    |   |       rs.dx90.vtx
+    |   |       rs.mdl
+    |   |       rs.phy
+    |   |       rs.sw.vtx
+    |   |       rs.vvd
+    |   |       
+    |   \---r576
+    |           0090.dx80.vtx
+    |           0090.dx90.vtx
+    |           0090.mdl
+    |           0090.phy
+    |           0090.sw.vtx
+    |           0090.vvd
+    |           l0014.dx80.vtx
+    |           l0014.dx90.vtx
+    |           l0014.mdl
+    |           l0014.phy
+    |           l0014.sw.vtx
+    |           l0014.vvd
+    |           l0024.dx80.vtx
+    |           l0024.dx90.vtx
+    |           l0024.mdl
+    |           l0024.phy
+    |           l0024.sw.vtx
+    |           l0024.vvd
+    |           l0044.dx80.vtx
+    |           l0044.dx90.vtx
+    |           l0044.mdl
+    |           l0044.phy
+    |           l0044.sw.vtx
+    |           l0044.vvd
+    |           l1424.dx80.vtx
+    |           l1424.dx90.vtx
+    |           l1424.mdl
+    |           l1424.phy
+    |           l1424.sw.vtx
+    |           l1424.vvd
+    |           l1444.dx80.vtx
+    |           l1444.dx90.vtx
+    |           l1444.mdl
+    |           l1444.phy
+    |           l1444.sw.vtx
+    |           l1444.vvd
+    |           l2444.dx80.vtx
+    |           l2444.dx90.vtx
+    |           l2444.mdl
+    |           l2444.phy
+    |           l2444.sw.vtx
+    |           l2444.vvd
+    |           ls.dx80.vtx
+    |           ls.dx90.vtx
+    |           ls.mdl
+    |           ls.phy
+    |           ls.sw.vtx
+    |           ls.vvd
+    |           r0014.dx80.vtx
+    |           r0014.dx90.vtx
+    |           r0014.mdl
+    |           r0014.phy
+    |           r0014.sw.vtx
+    |           r0014.vvd
+    |           r0024.dx80.vtx
+    |           r0024.dx90.vtx
+    |           r0024.mdl
+    |           r0024.phy
+    |           r0024.sw.vtx
+    |           r0024.vvd
+    |           r0044.dx80.vtx
+    |           r0044.dx90.vtx
+    |           r0044.mdl
+    |           r0044.phy
+    |           r0044.sw.vtx
+    |           r0044.vvd
+    |           r1424.dx80.vtx
+    |           r1424.dx90.vtx
+    |           r1424.mdl
+    |           r1424.phy
+    |           r1424.sw.vtx
+    |           r1424.vvd
+    |           r1444.dx80.vtx
+    |           r1444.dx90.vtx
+    |           r1444.mdl
+    |           r1444.phy
+    |           r1444.sw.vtx
+    |           r1444.vvd
+    |           r2444.dx80.vtx
+    |           r2444.dx90.vtx
+    |           r2444.mdl
+    |           r2444.phy
+    |           r2444.sw.vtx
+    |           r2444.vvd
+    |           rs.dx80.vtx
+    |           rs.dx90.vtx
+    |           rs.mdl
+    |           rs.phy
+    |           rs.sw.vtx
+    |           rs.vvd
+    |           
+    +---gr
+    |   +---04
+    |   |   |   1024.dx80.vtx
+    |   |   |   1024.dx90.vtx
+    |   |   |   1024.mdl
+    |   |   |   1024.phy
+    |   |   |   1024.sw.vtx
+    |   |   |   1024.vvd
+    |   |   |   128.dx80.vtx
+    |   |   |   128.dx90.vtx
+    |   |   |   128.mdl
+    |   |   |   128.phy
+    |   |   |   128.sw.vtx
+    |   |   |   128.vvd
+    |   |   |   256.dx80.vtx
+    |   |   |   256.dx90.vtx
+    |   |   |   256.mdl
+    |   |   |   256.phy
+    |   |   |   256.sw.vtx
+    |   |   |   256.vvd
+    |   |   |   32.dx80.vtx
+    |   |   |   32.dx90.vtx
+    |   |   |   32.mdl
+    |   |   |   32.phy
+    |   |   |   32.sw.vtx
+    |   |   |   32.vvd
+    |   |   |   512.dx80.vtx
+    |   |   |   512.dx90.vtx
+    |   |   |   512.mdl
+    |   |   |   512.phy
+    |   |   |   512.sw.vtx
+    |   |   |   512.vvd
+    |   |   |   64.dx80.vtx
+    |   |   |   64.dx90.vtx
+    |   |   |   64.mdl
+    |   |   |   64.phy
+    |   |   |   64.sw.vtx
+    |   |   |   64.vvd
+    |   |   |   
+    |   |   \---64
+    |   |           64.dx80.vtx
+    |   |           64.dx90.vtx
+    |   |           64.mdl
+    |   |           64.phy
+    |   |           64.sw.vtx
+    |   |           64.vvd
+    |   |           
+    |   +---44
+    |   |   |   1024.dx80.vtx
+    |   |   |   1024.dx90.vtx
+    |   |   |   1024.mdl
+    |   |   |   1024.phy
+    |   |   |   1024.sw.vtx
+    |   |   |   1024.vvd
+    |   |   |   128.dx80.vtx
+    |   |   |   128.dx90.vtx
+    |   |   |   128.mdl
+    |   |   |   128.phy
+    |   |   |   128.sw.vtx
+    |   |   |   128.vvd
+    |   |   |   256.dx80.vtx
+    |   |   |   256.dx90.vtx
+    |   |   |   256.mdl
+    |   |   |   256.phy
+    |   |   |   256.sw.vtx
+    |   |   |   256.vvd
+    |   |   |   32.dx80.vtx
+    |   |   |   32.dx90.vtx
+    |   |   |   32.mdl
+    |   |   |   32.phy
+    |   |   |   32.sw.vtx
+    |   |   |   32.vvd
+    |   |   |   512.dx80.vtx
+    |   |   |   512.dx90.vtx
+    |   |   |   512.mdl
+    |   |   |   512.phy
+    |   |   |   512.sw.vtx
+    |   |   |   512.vvd
+    |   |   |   64.dx80.vtx
+    |   |   |   64.dx90.vtx
+    |   |   |   64.mdl
+    |   |   |   64.phy
+    |   |   |   64.sw.vtx
+    |   |   |   64.vvd
+    |   |   |   
+    |   |   \---64
+    |   |           64.dx80.vtx
+    |   |           64.dx90.vtx
+    |   |           64.mdl
+    |   |           64.phy
+    |   |           64.sw.vtx
+    |   |           64.vvd
+    |   |           
+    |   +---l14
+    |   |   |   1024.dx80.vtx
+    |   |   |   1024.dx90.vtx
+    |   |   |   1024.mdl
+    |   |   |   1024.phy
+    |   |   |   1024.sw.vtx
+    |   |   |   1024.vvd
+    |   |   |   128.dx80.vtx
+    |   |   |   128.dx90.vtx
+    |   |   |   128.mdl
+    |   |   |   128.phy
+    |   |   |   128.sw.vtx
+    |   |   |   128.vvd
+    |   |   |   256.dx80.vtx
+    |   |   |   256.dx90.vtx
+    |   |   |   256.mdl
+    |   |   |   256.phy
+    |   |   |   256.sw.vtx
+    |   |   |   256.vvd
+    |   |   |   32.dx80.vtx
+    |   |   |   32.dx90.vtx
+    |   |   |   32.mdl
+    |   |   |   32.phy
+    |   |   |   32.sw.vtx
+    |   |   |   32.vvd
+    |   |   |   512.dx80.vtx
+    |   |   |   512.dx90.vtx
+    |   |   |   512.mdl
+    |   |   |   512.phy
+    |   |   |   512.sw.vtx
+    |   |   |   512.vvd
+    |   |   |   64.dx80.vtx
+    |   |   |   64.dx90.vtx
+    |   |   |   64.mdl
+    |   |   |   64.phy
+    |   |   |   64.sw.vtx
+    |   |   |   64.vvd
+    |   |   |   
+    |   |   \---64
+    |   |           64.dx80.vtx
+    |   |           64.dx90.vtx
+    |   |           64.mdl
+    |   |           64.phy
+    |   |           64.sw.vtx
+    |   |           64.vvd
+    |   |           
+    |   +---l24
+    |   |   |   1024.dx80.vtx
+    |   |   |   1024.dx90.vtx
+    |   |   |   1024.mdl
+    |   |   |   1024.phy
+    |   |   |   1024.sw.vtx
+    |   |   |   1024.vvd
+    |   |   |   128.dx80.vtx
+    |   |   |   128.dx90.vtx
+    |   |   |   128.mdl
+    |   |   |   128.phy
+    |   |   |   128.sw.vtx
+    |   |   |   128.vvd
+    |   |   |   256.dx80.vtx
+    |   |   |   256.dx90.vtx
+    |   |   |   256.mdl
+    |   |   |   256.phy
+    |   |   |   256.sw.vtx
+    |   |   |   256.vvd
+    |   |   |   32.dx80.vtx
+    |   |   |   32.dx90.vtx
+    |   |   |   32.mdl
+    |   |   |   32.phy
+    |   |   |   32.sw.vtx
+    |   |   |   32.vvd
+    |   |   |   512.dx80.vtx
+    |   |   |   512.dx90.vtx
+    |   |   |   512.mdl
+    |   |   |   512.phy
+    |   |   |   512.sw.vtx
+    |   |   |   512.vvd
+    |   |   |   64.dx80.vtx
+    |   |   |   64.dx90.vtx
+    |   |   |   64.mdl
+    |   |   |   64.phy
+    |   |   |   64.sw.vtx
+    |   |   |   64.vvd
+    |   |   |   
+    |   |   \---64
+    |   |           64.dx80.vtx
+    |   |           64.dx90.vtx
+    |   |           64.mdl
+    |   |           64.phy
+    |   |           64.sw.vtx
+    |   |           64.vvd
+    |   |           
+    |   +---r14
+    |   |   |   1024.dx80.vtx
+    |   |   |   1024.dx90.vtx
+    |   |   |   1024.mdl
+    |   |   |   1024.phy
+    |   |   |   1024.sw.vtx
+    |   |   |   1024.vvd
+    |   |   |   128.dx80.vtx
+    |   |   |   128.dx90.vtx
+    |   |   |   128.mdl
+    |   |   |   128.phy
+    |   |   |   128.sw.vtx
+    |   |   |   128.vvd
+    |   |   |   256.dx80.vtx
+    |   |   |   256.dx90.vtx
+    |   |   |   256.mdl
+    |   |   |   256.phy
+    |   |   |   256.sw.vtx
+    |   |   |   256.vvd
+    |   |   |   32.dx80.vtx
+    |   |   |   32.dx90.vtx
+    |   |   |   32.mdl
+    |   |   |   32.phy
+    |   |   |   32.sw.vtx
+    |   |   |   32.vvd
+    |   |   |   512.dx80.vtx
+    |   |   |   512.dx90.vtx
+    |   |   |   512.mdl
+    |   |   |   512.phy
+    |   |   |   512.sw.vtx
+    |   |   |   512.vvd
+    |   |   |   64.dx80.vtx
+    |   |   |   64.dx90.vtx
+    |   |   |   64.mdl
+    |   |   |   64.phy
+    |   |   |   64.sw.vtx
+    |   |   |   64.vvd
+    |   |   |   
+    |   |   \---64
+    |   |           64.dx80.vtx
+    |   |           64.dx90.vtx
+    |   |           64.mdl
+    |   |           64.phy
+    |   |           64.sw.vtx
+    |   |           64.vvd
+    |   |           
+    |   \---r24
+    |       |   1024.dx80.vtx
+    |       |   1024.dx90.vtx
+    |       |   1024.mdl
+    |       |   1024.phy
+    |       |   1024.sw.vtx
+    |       |   1024.vvd
+    |       |   128.dx80.vtx
+    |       |   128.dx90.vtx
+    |       |   128.mdl
+    |       |   128.phy
+    |       |   128.sw.vtx
+    |       |   128.vvd
+    |       |   256.dx80.vtx
+    |       |   256.dx90.vtx
+    |       |   256.mdl
+    |       |   256.phy
+    |       |   256.sw.vtx
+    |       |   256.vvd
+    |       |   32.dx80.vtx
+    |       |   32.dx90.vtx
+    |       |   32.mdl
+    |       |   32.phy
+    |       |   32.sw.vtx
+    |       |   32.vvd
+    |       |   512.dx80.vtx
+    |       |   512.dx90.vtx
+    |       |   512.mdl
+    |       |   512.phy
+    |       |   512.sw.vtx
+    |       |   512.vvd
+    |       |   64.dx80.vtx
+    |       |   64.dx90.vtx
+    |       |   64.mdl
+    |       |   64.phy
+    |       |   64.sw.vtx
+    |       |   64.vvd
+    |       |   
+    |       \---64
+    |               64.dx80.vtx
+    |               64.dx90.vtx
+    |               64.mdl
+    |               64.phy
+    |               64.sw.vtx
+    |               64.vvd
+    |               
+    +---mi
+    |   |   04_trigger.dx80.vtx
+    |   |   04_trigger.dx90.vtx
+    |   |   04_trigger.mdl
+    |   |   04_trigger.sw.vtx
+    |   |   04_trigger.vvd
+    |   |   44_trigger.dx80.vtx
+    |   |   44_trigger.dx90.vtx
+    |   |   44_trigger.mdl
+    |   |   44_trigger.sw.vtx
+    |   |   44_trigger.vvd
+    |   |   l14_trigger.dx80.vtx
+    |   |   l14_trigger.dx90.vtx
+    |   |   l14_trigger.mdl
+    |   |   l14_trigger.sw.vtx
+    |   |   l14_trigger.vvd
+    |   |   l24_trigger.dx80.vtx
+    |   |   l24_trigger.dx90.vtx
+    |   |   l24_trigger.mdl
+    |   |   l24_trigger.sw.vtx
+    |   |   l24_trigger.vvd
+    |   |   r14_trigger.dx80.vtx
+    |   |   r14_trigger.dx90.vtx
+    |   |   r14_trigger.mdl
+    |   |   r14_trigger.sw.vtx
+    |   |   r14_trigger.vvd
+    |   |   r24_trigger.dx80.vtx
+    |   |   r24_trigger.dx90.vtx
+    |   |   r24_trigger.mdl
+    |   |   r24_trigger.sw.vtx
+    |   |   r24_trigger.vvd
+    |   |   slider.dx80.vtx
+    |   |   slider.dx90.vtx
+    |   |   slider.mdl
+    |   |   slider.phy
+    |   |   slider.sw.vtx
+    |   |   slider.vvd
+    |   |   slider_16.dx80.vtx
+    |   |   slider_16.dx90.vtx
+    |   |   slider_16.mdl
+    |   |   slider_16.phy
+    |   |   slider_16.sw.vtx
+    |   |   slider_16.vvd
+    |   |   slider_24.dx80.vtx
+    |   |   slider_24.dx90.vtx
+    |   |   slider_24.mdl
+    |   |   slider_24.phy
+    |   |   slider_24.sw.vtx
+    |   |   slider_24.vvd
+    |   |   slider_32.dx80.vtx
+    |   |   slider_32.dx90.vtx
+    |   |   slider_32.mdl
+    |   |   slider_32.phy
+    |   |   slider_32.sw.vtx
+    |   |   slider_32.vvd
+    |   |   slider_8.dx80.vtx
+    |   |   slider_8.dx90.vtx
+    |   |   slider_8.mdl
+    |   |   slider_8.phy
+    |   |   slider_8.sw.vtx
+    |   |   slider_8.vvd
+    |   |   
+    |   +---04
+    |   |       drawbridge.dx80.vtx
+    |   |       drawbridge.dx90.vtx
+    |   |       drawbridge.mdl
+    |   |       drawbridge.phy
+    |   |       drawbridge.sw.vtx
+    |   |       drawbridge.vvd
+    |   |       drawbridgebase.dx80.vtx
+    |   |       drawbridgebase.dx90.vtx
+    |   |       drawbridgebase.mdl
+    |   |       drawbridgebase.phy
+    |   |       drawbridgebase.sw.vtx
+    |   |       drawbridgebase.vvd
+    |   |       sleeper.dx80.vtx
+    |   |       sleeper.dx90.vtx
+    |   |       sleeper.mdl
+    |   |       sleeper.sw.vtx
+    |   |       sleeper.vvd
+    |   |       sleeperh.dx80.vtx
+    |   |       sleeperh.dx90.vtx
+    |   |       sleeperh.mdl
+    |   |       sleeperh.sw.vtx
+    |   |       sleeperh.vvd
+    |   |       swl.dx80.vtx
+    |   |       swl.dx90.vtx
+    |   |       swl.mdl
+    |   |       swl.sw.vtx
+    |   |       swl.vvd
+    |   |       swr.dx80.vtx
+    |   |       swr.dx90.vtx
+    |   |       swr.mdl
+    |   |       swr.sw.vtx
+    |   |       swr.vvd
+    |   |       trackend.dx80.vtx
+    |   |       trackend.dx90.vtx
+    |   |       trackend.mdl
+    |   |       trackend.phy
+    |   |       trackend.sw.vtx
+    |   |       trackend.vvd
+    |   |       x90x.dx80.vtx
+    |   |       x90x.dx90.vtx
+    |   |       x90x.mdl
+    |   |       x90x.phy
+    |   |       x90x.sw.vtx
+    |   |       x90x.vvd
+    |   |       x90y.dx80.vtx
+    |   |       x90y.dx90.vtx
+    |   |       x90y.mdl
+    |   |       x90y.phy
+    |   |       x90y.sw.vtx
+    |   |       x90y.vvd
+    |   |       
+    |   +---44
+    |   |       sleeper.dx80.vtx
+    |   |       sleeper.dx90.vtx
+    |   |       sleeper.mdl
+    |   |       sleeper.sw.vtx
+    |   |       sleeper.vvd
+    |   |       sleeperh.dx80.vtx
+    |   |       sleeperh.dx90.vtx
+    |   |       sleeperh.mdl
+    |   |       sleeperh.sw.vtx
+    |   |       sleeperh.vvd
+    |   |       trackend.dx80.vtx
+    |   |       trackend.dx90.vtx
+    |   |       trackend.mdl
+    |   |       trackend.phy
+    |   |       trackend.sw.vtx
+    |   |       trackend.vvd
+    |   |       
+    |   +---l14
+    |   |       115.dx80.vtx
+    |   |       115.dx90.vtx
+    |   |       115.mdl
+    |   |       115.phy
+    |   |       115.sw.vtx
+    |   |       115.vvd
+    |   |       sleeperh.dx80.vtx
+    |   |       sleeperh.dx90.vtx
+    |   |       sleeperh.mdl
+    |   |       sleeperh.sw.vtx
+    |   |       sleeperh.vvd
+    |   |       swl.dx80.vtx
+    |   |       swl.dx90.vtx
+    |   |       swl.mdl
+    |   |       swl.sw.vtx
+    |   |       swl.vvd
+    |   |       swr.dx80.vtx
+    |   |       swr.dx90.vtx
+    |   |       swr.mdl
+    |   |       swr.sw.vtx
+    |   |       swr.vvd
+    |   |       trackend.dx80.vtx
+    |   |       trackend.dx90.vtx
+    |   |       trackend.mdl
+    |   |       trackend.phy
+    |   |       trackend.sw.vtx
+    |   |       trackend.vvd
+    |   |       
+    |   +---l24
+    |   |       sleeper.dx80.vtx
+    |   |       sleeper.dx90.vtx
+    |   |       sleeper.mdl
+    |   |       sleeper.sw.vtx
+    |   |       sleeper.vvd
+    |   |       sleeperh.dx80.vtx
+    |   |       sleeperh.dx90.vtx
+    |   |       sleeperh.mdl
+    |   |       sleeperh.sw.vtx
+    |   |       sleeperh.vvd
+    |   |       trackend.dx80.vtx
+    |   |       trackend.dx90.vtx
+    |   |       trackend.mdl
+    |   |       trackend.phy
+    |   |       trackend.sw.vtx
+    |   |       trackend.vvd
+    |   |       
+    |   +---r14
+    |   |       115.dx80.vtx
+    |   |       115.dx90.vtx
+    |   |       115.mdl
+    |   |       115.phy
+    |   |       115.sw.vtx
+    |   |       115.vvd
+    |   |       sleeperh.dx80.vtx
+    |   |       sleeperh.dx90.vtx
+    |   |       sleeperh.mdl
+    |   |       sleeperh.sw.vtx
+    |   |       sleeperh.vvd
+    |   |       swl.dx80.vtx
+    |   |       swl.dx90.vtx
+    |   |       swl.mdl
+    |   |       swl.sw.vtx
+    |   |       swl.vvd
+    |   |       swr.dx80.vtx
+    |   |       swr.dx90.vtx
+    |   |       swr.mdl
+    |   |       swr.sw.vtx
+    |   |       swr.vvd
+    |   |       trackend.dx80.vtx
+    |   |       trackend.dx90.vtx
+    |   |       trackend.mdl
+    |   |       trackend.phy
+    |   |       trackend.sw.vtx
+    |   |       trackend.vvd
+    |   |       
+    |   \---r24
+    |           sleeper.dx80.vtx
+    |           sleeper.dx90.vtx
+    |           sleeper.mdl
+    |           sleeper.sw.vtx
+    |           sleeper.vvd
+    |           sleeperh.dx80.vtx
+    |           sleeperh.dx90.vtx
+    |           sleeperh.mdl
+    |           sleeperh.sw.vtx
+    |           sleeperh.vvd
+    |           trackend.dx80.vtx
+    |           trackend.dx90.vtx
+    |           trackend.mdl
+    |           trackend.phy
+    |           trackend.sw.vtx
+    |           trackend.vvd
+    |           
+    +---st
+    |   +---04
+    |   |       1.dx80.vtx
+    |   |       1.dx90.vtx
+    |   |       1.mdl
+    |   |       1.phy
+    |   |       1.sw.vtx
+    |   |       1.vvd
+    |   |       1024.dx80.vtx
+    |   |       1024.dx90.vtx
+    |   |       1024.mdl
+    |   |       1024.phy
+    |   |       1024.sw.vtx
+    |   |       1024.vvd
+    |   |       128.dx80.vtx
+    |   |       128.dx90.vtx
+    |   |       128.mdl
+    |   |       128.phy
+    |   |       128.sw.vtx
+    |   |       128.vvd
+    |   |       128_l1.dx80.vtx
+    |   |       128_l1.dx90.vtx
+    |   |       128_l1.mdl
+    |   |       128_l1.phy
+    |   |       128_l1.sw.vtx
+    |   |       128_l1.vvd
+    |   |       128_r1.dx80.vtx
+    |   |       128_r1.dx90.vtx
+    |   |       128_r1.mdl
+    |   |       128_r1.phy
+    |   |       128_r1.sw.vtx
+    |   |       128_r1.vvd
+    |   |       16.dx80.vtx
+    |   |       16.dx90.vtx
+    |   |       16.mdl
+    |   |       16.phy
+    |   |       16.sw.vtx
+    |   |       16.vvd
+    |   |       16x2.dx80.vtx
+    |   |       16x2.dx90.vtx
+    |   |       16x2.mdl
+    |   |       16x2.phy
+    |   |       16x2.sw.vtx
+    |   |       16x2.vvd
+    |   |       2.dx80.vtx
+    |   |       2.dx90.vtx
+    |   |       2.mdl
+    |   |       2.phy
+    |   |       2.sw.vtx
+    |   |       2.vvd
+    |   |       256.dx80.vtx
+    |   |       256.dx90.vtx
+    |   |       256.mdl
+    |   |       256.phy
+    |   |       256.sw.vtx
+    |   |       256.vvd
+    |   |       32.dx80.vtx
+    |   |       32.dx90.vtx
+    |   |       32.mdl
+    |   |       32.phy
+    |   |       32.sw.vtx
+    |   |       32.vvd
+    |   |       4.dx80.vtx
+    |   |       4.dx90.vtx
+    |   |       4.mdl
+    |   |       4.phy
+    |   |       4.sw.vtx
+    |   |       4.vvd
+    |   |       512.dx80.vtx
+    |   |       512.dx90.vtx
+    |   |       512.mdl
+    |   |       512.phy
+    |   |       512.sw.vtx
+    |   |       512.vvd
+    |   |       64.dx80.vtx
+    |   |       64.dx90.vtx
+    |   |       64.mdl
+    |   |       64.phy
+    |   |       64.sw.vtx
+    |   |       64.vvd
+    |   |       8.dx80.vtx
+    |   |       8.dx90.vtx
+    |   |       8.mdl
+    |   |       8.phy
+    |   |       8.sw.vtx
+    |   |       8.vvd
+    |   |       
+    |   +---24
+    |   |       l16.dx80.vtx
+    |   |       l16.dx90.vtx
+    |   |       l16.mdl
+    |   |       l16.phy
+    |   |       l16.sw.vtx
+    |   |       l16.vvd
+    |   |       r16.dx80.vtx
+    |   |       r16.dx90.vtx
+    |   |       r16.mdl
+    |   |       r16.phy
+    |   |       r16.sw.vtx
+    |   |       r16.vvd
+    |   |       r8.dx80.vtx
+    |   |       r8.dx90.vtx
+    |   |       r8.mdl
+    |   |       r8.phy
+    |   |       r8.sw.vtx
+    |   |       r8.vvd
+    |   |       
+    |   +---44
+    |   |       1024.dx80.vtx
+    |   |       1024.dx90.vtx
+    |   |       1024.mdl
+    |   |       1024.phy
+    |   |       1024.sw.vtx
+    |   |       1024.vvd
+    |   |       128.dx80.vtx
+    |   |       128.dx90.vtx
+    |   |       128.mdl
+    |   |       128.phy
+    |   |       128.sw.vtx
+    |   |       128.vvd
+    |   |       16.dx80.vtx
+    |   |       16.dx90.vtx
+    |   |       16.mdl
+    |   |       16.phy
+    |   |       16.sw.vtx
+    |   |       16.vvd
+    |   |       256.dx80.vtx
+    |   |       256.dx90.vtx
+    |   |       256.mdl
+    |   |       256.phy
+    |   |       256.sw.vtx
+    |   |       256.vvd
+    |   |       32.dx80.vtx
+    |   |       32.dx90.vtx
+    |   |       32.mdl
+    |   |       32.phy
+    |   |       32.sw.vtx
+    |   |       32.vvd
+    |   |       4.dx80.vtx
+    |   |       4.dx90.vtx
+    |   |       4.mdl
+    |   |       4.phy
+    |   |       4.sw.vtx
+    |   |       4.vvd
+    |   |       512.dx80.vtx
+    |   |       512.dx90.vtx
+    |   |       512.mdl
+    |   |       512.phy
+    |   |       512.sw.vtx
+    |   |       512.vvd
+    |   |       64.dx80.vtx
+    |   |       64.dx90.vtx
+    |   |       64.mdl
+    |   |       64.phy
+    |   |       64.sw.vtx
+    |   |       64.vvd
+    |   |       8.dx80.vtx
+    |   |       8.dx90.vtx
+    |   |       8.mdl
+    |   |       8.phy
+    |   |       8.sw.vtx
+    |   |       8.vvd
+    |   |       
+    |   +---l14
+    |   |       1024.dx80.vtx
+    |   |       1024.dx90.vtx
+    |   |       1024.mdl
+    |   |       1024.phy
+    |   |       1024.sw.vtx
+    |   |       1024.vvd
+    |   |       128.dx80.vtx
+    |   |       128.dx90.vtx
+    |   |       128.mdl
+    |   |       128.phy
+    |   |       128.sw.vtx
+    |   |       128.vvd
+    |   |       16.dx80.vtx
+    |   |       16.dx90.vtx
+    |   |       16.mdl
+    |   |       16.phy
+    |   |       16.sw.vtx
+    |   |       16.vvd
+    |   |       256.dx80.vtx
+    |   |       256.dx90.vtx
+    |   |       256.mdl
+    |   |       256.phy
+    |   |       256.sw.vtx
+    |   |       256.vvd
+    |   |       32.dx80.vtx
+    |   |       32.dx90.vtx
+    |   |       32.mdl
+    |   |       32.phy
+    |   |       32.sw.vtx
+    |   |       32.vvd
+    |   |       4.dx80.vtx
+    |   |       4.dx90.vtx
+    |   |       4.mdl
+    |   |       4.phy
+    |   |       4.sw.vtx
+    |   |       4.vvd
+    |   |       512.dx80.vtx
+    |   |       512.dx90.vtx
+    |   |       512.mdl
+    |   |       512.phy
+    |   |       512.sw.vtx
+    |   |       512.vvd
+    |   |       64.dx80.vtx
+    |   |       64.dx90.vtx
+    |   |       64.mdl
+    |   |       64.phy
+    |   |       64.sw.vtx
+    |   |       64.vvd
+    |   |       8.dx80.vtx
+    |   |       8.dx90.vtx
+    |   |       8.mdl
+    |   |       8.phy
+    |   |       8.sw.vtx
+    |   |       8.vvd
+    |   |       
+    |   +---l24
+    |   |       1024.dx80.vtx
+    |   |       1024.dx90.vtx
+    |   |       1024.mdl
+    |   |       1024.phy
+    |   |       1024.sw.vtx
+    |   |       1024.vvd
+    |   |       128.dx80.vtx
+    |   |       128.dx90.vtx
+    |   |       128.mdl
+    |   |       128.phy
+    |   |       128.sw.vtx
+    |   |       128.vvd
+    |   |       256.dx80.vtx
+    |   |       256.dx90.vtx
+    |   |       256.mdl
+    |   |       256.phy
+    |   |       256.sw.vtx
+    |   |       256.vvd
+    |   |       32.dx80.vtx
+    |   |       32.dx90.vtx
+    |   |       32.mdl
+    |   |       32.phy
+    |   |       32.sw.vtx
+    |   |       32.vvd
+    |   |       4.dx80.vtx
+    |   |       4.dx90.vtx
+    |   |       4.mdl
+    |   |       4.phy
+    |   |       4.sw.vtx
+    |   |       4.vvd
+    |   |       512.dx80.vtx
+    |   |       512.dx90.vtx
+    |   |       512.mdl
+    |   |       512.phy
+    |   |       512.sw.vtx
+    |   |       512.vvd
+    |   |       64.dx80.vtx
+    |   |       64.dx90.vtx
+    |   |       64.mdl
+    |   |       64.phy
+    |   |       64.sw.vtx
+    |   |       64.vvd
+    |   |       8.dx80.vtx
+    |   |       8.dx90.vtx
+    |   |       8.mdl
+    |   |       8.phy
+    |   |       8.sw.vtx
+    |   |       8.vvd
+    |   |       
+    |   +---r14
+    |   |       1024.dx80.vtx
+    |   |       1024.dx90.vtx
+    |   |       1024.mdl
+    |   |       1024.phy
+    |   |       1024.sw.vtx
+    |   |       1024.vvd
+    |   |       128.dx80.vtx
+    |   |       128.dx90.vtx
+    |   |       128.mdl
+    |   |       128.phy
+    |   |       128.sw.vtx
+    |   |       128.vvd
+    |   |       16.dx80.vtx
+    |   |       16.dx90.vtx
+    |   |       16.mdl
+    |   |       16.phy
+    |   |       16.sw.vtx
+    |   |       16.vvd
+    |   |       256.dx80.vtx
+    |   |       256.dx90.vtx
+    |   |       256.mdl
+    |   |       256.phy
+    |   |       256.sw.vtx
+    |   |       256.vvd
+    |   |       32.dx80.vtx
+    |   |       32.dx90.vtx
+    |   |       32.mdl
+    |   |       32.phy
+    |   |       32.sw.vtx
+    |   |       32.vvd
+    |   |       4.dx80.vtx
+    |   |       4.dx90.vtx
+    |   |       4.mdl
+    |   |       4.phy
+    |   |       4.sw.vtx
+    |   |       4.vvd
+    |   |       512.dx80.vtx
+    |   |       512.dx90.vtx
+    |   |       512.mdl
+    |   |       512.phy
+    |   |       512.sw.vtx
+    |   |       512.vvd
+    |   |       64.dx80.vtx
+    |   |       64.dx90.vtx
+    |   |       64.mdl
+    |   |       64.phy
+    |   |       64.sw.vtx
+    |   |       64.vvd
+    |   |       8.dx80.vtx
+    |   |       8.dx90.vtx
+    |   |       8.mdl
+    |   |       8.phy
+    |   |       8.sw.vtx
+    |   |       8.vvd
+    |   |       
+    |   \---r24
+    |           1024.dx80.vtx
+    |           1024.dx90.vtx
+    |           1024.mdl
+    |           1024.phy
+    |           1024.sw.vtx
+    |           1024.vvd
+    |           128.dx80.vtx
+    |           128.dx90.vtx
+    |           128.mdl
+    |           128.phy
+    |           128.sw.vtx
+    |           128.vvd
+    |           256.dx80.vtx
+    |           256.dx90.vtx
+    |           256.mdl
+    |           256.phy
+    |           256.sw.vtx
+    |           256.vvd
+    |           32.dx80.vtx
+    |           32.dx90.vtx
+    |           32.mdl
+    |           32.phy
+    |           32.sw.vtx
+    |           32.vvd
+    |           4.dx80.vtx
+    |           4.dx90.vtx
+    |           4.mdl
+    |           4.phy
+    |           4.sw.vtx
+    |           4.vvd
+    |           512.dx80.vtx
+    |           512.dx90.vtx
+    |           512.mdl
+    |           512.phy
+    |           512.sw.vtx
+    |           512.vvd
+    |           64.dx80.vtx
+    |           64.dx90.vtx
+    |           64.mdl
+    |           64.phy
+    |           64.sw.vtx
+    |           64.vvd
+    |           8.dx80.vtx
+    |           8.dx90.vtx
+    |           8.mdl
+    |           8.phy
+    |           8.sw.vtx
+    |           8.vvd
+    |           
+    +---tr
+    |   |   transfer_table_512.dx80.vtx
+    |   |   transfer_table_512.dx90.vtx
+    |   |   transfer_table_512.mdl
+    |   |   transfer_table_512.phy
+    |   |   transfer_table_512.sw.vtx
+    |   |   transfer_table_512.vvd
+    |   |   
+    |   \---04
+    |           128.dx80.vtx
+    |           128.dx90.vtx
+    |           128.mdl
+    |           128.phy
+    |           128.sw.vtx
+    |           128.vvd
+    |           256.dx80.vtx
+    |           256.dx90.vtx
+    |           256.mdl
+    |           256.phy
+    |           256.sw.vtx
+    |           256.vvd
+    |           512.dx80.vtx
+    |           512.dx90.vtx
+    |           512.mdl
+    |           512.phy
+    |           512.sw.vtx
+    |           512.vvd
+    |           64.dx80.vtx
+    |           64.dx90.vtx
+    |           64.mdl
+    |           64.phy
+    |           64.sw.vtx
+    |           64.vvd
+    |           trackend.dx80.vtx
+    |           trackend.dx90.vtx
+    |           trackend.mdl
+    |           trackend.phy
+    |           trackend.sw.vtx
+    |           trackend.vvd
+    |           trusstrack.dx80.vtx
+    |           trusstrack.dx90.vtx
+    |           trusstrack.mdl
+    |           trusstrack.phy
+    |           trusstrack.sw.vtx
+    |           trusstrack.vvd
+    |           trusstransfer.dx80.vtx
+    |           trusstransfer.dx90.vtx
+    |           trusstransfer.mdl
+    |           trusstransfer.phy
+    |           trusstransfer.sw.vtx
+    |           trusstransfer.vvd
+    |           
+    \---tu
+        +---r1536
+        |   \---04
+        |       \---j
+        |               l_l.dx80.vtx
+        |               l_l.dx90.vtx
+        |               l_l.mdl
+        |               l_l.phy
+        |               l_l.sw.vtx
+        |               l_l.vvd
+        |               l_r.dx80.vtx
+        |               l_r.dx90.vtx
+        |               l_r.mdl
+        |               l_r.phy
+        |               l_r.sw.vtx
+        |               l_r.vvd
+        |               r_l.dx80.vtx
+        |               r_l.dx90.vtx
+        |               r_l.mdl
+        |               r_l.phy
+        |               r_l.sw.vtx
+        |               r_l.vvd
+        |               r_r.dx80.vtx
+        |               r_r.dx90.vtx
+        |               r_r.mdl
+        |               r_r.phy
+        |               r_r.sw.vtx
+        |               r_r.vvd
+        |               
+        +---r1600
+        |   \---04
+        |       +---dj
+        |       |       l_lx.dx80.vtx
+        |       |       l_lx.dx90.vtx
+        |       |       l_lx.mdl
+        |       |       l_lx.phy
+        |       |       l_lx.sw.vtx
+        |       |       l_lx.vvd
+        |       |       l_rx.dx80.vtx
+        |       |       l_rx.dx90.vtx
+        |       |       l_rx.mdl
+        |       |       l_rx.phy
+        |       |       l_rx.sw.vtx
+        |       |       l_rx.vvd
+        |       |       r_lx.dx80.vtx
+        |       |       r_lx.dx90.vtx
+        |       |       r_lx.mdl
+        |       |       r_lx.phy
+        |       |       r_lx.sw.vtx
+        |       |       r_lx.vvd
+        |       |       r_rx.dx80.vtx
+        |       |       r_rx.dx90.vtx
+        |       |       r_rx.mdl
+        |       |       r_rx.phy
+        |       |       r_rx.sw.vtx
+        |       |       r_rx.vvd
+        |       |       
+        |       \---j
+        |               l_l.dx80.vtx
+        |               l_l.dx90.vtx
+        |               l_l.mdl
+        |               l_l.phy
+        |               l_l.sw.vtx
+        |               l_l.vvd
+        |               l_r.dx80.vtx
+        |               l_r.dx90.vtx
+        |               l_r.mdl
+        |               l_r.phy
+        |               l_r.sw.vtx
+        |               l_r.vvd
+        |               r_l.dx80.vtx
+        |               r_l.dx90.vtx
+        |               r_l.mdl
+        |               r_l.phy
+        |               r_l.sw.vtx
+        |               r_l.vvd
+        |               r_r.dx80.vtx
+        |               r_r.dx90.vtx
+        |               r_r.mdl
+        |               r_r.phy
+        |               r_r.sw.vtx
+        |               r_r.vvd
+        |               
+        +---r512
+        |   +---04
+        |   |   \---j
+        |   |           l_l.dx80.vtx
+        |   |           l_l.dx90.vtx
+        |   |           l_l.mdl
+        |   |           l_l.phy
+        |   |           l_l.sw.vtx
+        |   |           l_l.vvd
+        |   |           l_r.dx80.vtx
+        |   |           l_r.dx90.vtx
+        |   |           l_r.mdl
+        |   |           l_r.phy
+        |   |           l_r.sw.vtx
+        |   |           l_r.vvd
+        |   |           r_l.dx80.vtx
+        |   |           r_l.dx90.vtx
+        |   |           r_l.mdl
+        |   |           r_l.phy
+        |   |           r_l.sw.vtx
+        |   |           r_l.vvd
+        |   |           r_r.dx80.vtx
+        |   |           r_r.dx90.vtx
+        |   |           r_r.mdl
+        |   |           r_r.phy
+        |   |           r_r.sw.vtx
+        |   |           r_r.vvd
+        |   |           
+        |   +---44
+        |   |   \---j
+        |   |           l_l.dx80.vtx
+        |   |           l_l.dx90.vtx
+        |   |           l_l.mdl
+        |   |           l_l.phy
+        |   |           l_l.sw.vtx
+        |   |           l_l.vvd
+        |   |           l_r.dx80.vtx
+        |   |           l_r.dx90.vtx
+        |   |           l_r.mdl
+        |   |           l_r.phy
+        |   |           l_r.sw.vtx
+        |   |           l_r.vvd
+        |   |           r_l.dx80.vtx
+        |   |           r_l.dx90.vtx
+        |   |           r_l.mdl
+        |   |           r_l.phy
+        |   |           r_l.sw.vtx
+        |   |           r_l.vvd
+        |   |           r_r.dx80.vtx
+        |   |           r_r.dx90.vtx
+        |   |           r_r.mdl
+        |   |           r_r.phy
+        |   |           r_r.sw.vtx
+        |   |           r_r.vvd
+        |   |           
+        |   +---l14
+        |   |   \---j
+        |   |           l_l.dx80.vtx
+        |   |           l_l.dx90.vtx
+        |   |           l_l.mdl
+        |   |           l_l.phy
+        |   |           l_l.sw.vtx
+        |   |           l_l.vvd
+        |   |           l_r.dx80.vtx
+        |   |           l_r.dx90.vtx
+        |   |           l_r.mdl
+        |   |           l_r.phy
+        |   |           l_r.sw.vtx
+        |   |           l_r.vvd
+        |   |           r_l.dx80.vtx
+        |   |           r_l.dx90.vtx
+        |   |           r_l.mdl
+        |   |           r_l.phy
+        |   |           r_l.sw.vtx
+        |   |           r_l.vvd
+        |   |           r_r.dx80.vtx
+        |   |           r_r.dx90.vtx
+        |   |           r_r.mdl
+        |   |           r_r.phy
+        |   |           r_r.sw.vtx
+        |   |           r_r.vvd
+        |   |           
+        |   +---l24
+        |   |   +---j
+        |   |   |       l_l.dx80.vtx
+        |   |   |       l_l.dx90.vtx
+        |   |   |       l_l.mdl
+        |   |   |       l_l.phy
+        |   |   |       l_l.sw.vtx
+        |   |   |       l_l.vvd
+        |   |   |       l_r.dx80.vtx
+        |   |   |       l_r.dx90.vtx
+        |   |   |       l_r.mdl
+        |   |   |       l_r.phy
+        |   |   |       l_r.sw.vtx
+        |   |   |       l_r.vvd
+        |   |   |       r_l.dx80.vtx
+        |   |   |       r_l.dx90.vtx
+        |   |   |       r_l.mdl
+        |   |   |       r_l.phy
+        |   |   |       r_l.sw.vtx
+        |   |   |       r_l.vvd
+        |   |   |       r_r.dx80.vtx
+        |   |   |       r_r.dx90.vtx
+        |   |   |       r_r.mdl
+        |   |   |       r_r.phy
+        |   |   |       r_r.sw.vtx
+        |   |   |       r_r.vvd
+        |   |   |       
+        |   |   \---r
+        |   |           r_l.dx80.vtx
+        |   |           r_l.dx90.vtx
+        |   |           r_l.mdl
+        |   |           r_l.phy
+        |   |           r_l.sw.vtx
+        |   |           r_l.vvd
+        |   |           r_r.dx80.vtx
+        |   |           r_r.dx90.vtx
+        |   |           r_r.mdl
+        |   |           r_r.phy
+        |   |           r_r.sw.vtx
+        |   |           r_r.vvd
+        |   |           
+        |   +---r14
+        |   |   \---j
+        |   |           l_l.dx80.vtx
+        |   |           l_l.dx90.vtx
+        |   |           l_l.mdl
+        |   |           l_l.phy
+        |   |           l_l.sw.vtx
+        |   |           l_l.vvd
+        |   |           l_r.dx80.vtx
+        |   |           l_r.dx90.vtx
+        |   |           l_r.mdl
+        |   |           l_r.phy
+        |   |           l_r.sw.vtx
+        |   |           l_r.vvd
+        |   |           r_l.dx80.vtx
+        |   |           r_l.dx90.vtx
+        |   |           r_l.mdl
+        |   |           r_l.phy
+        |   |           r_l.sw.vtx
+        |   |           r_l.vvd
+        |   |           r_r.dx80.vtx
+        |   |           r_r.dx90.vtx
+        |   |           r_r.mdl
+        |   |           r_r.phy
+        |   |           r_r.sw.vtx
+        |   |           r_r.vvd
+        |   |           
+        |   \---r24
+        |       +---j
+        |       |       l_l.dx80.vtx
+        |       |       l_l.dx90.vtx
+        |       |       l_l.mdl
+        |       |       l_l.phy
+        |       |       l_l.sw.vtx
+        |       |       l_l.vvd
+        |       |       l_r.dx80.vtx
+        |       |       l_r.dx90.vtx
+        |       |       l_r.mdl
+        |       |       l_r.phy
+        |       |       l_r.sw.vtx
+        |       |       l_r.vvd
+        |       |       r_l.dx80.vtx
+        |       |       r_l.dx90.vtx
+        |       |       r_l.mdl
+        |       |       r_l.phy
+        |       |       r_l.sw.vtx
+        |       |       r_l.vvd
+        |       |       r_r.dx80.vtx
+        |       |       r_r.dx90.vtx
+        |       |       r_r.mdl
+        |       |       r_r.phy
+        |       |       r_r.sw.vtx
+        |       |       r_r.vvd
+        |       |       
+        |       \---r
+        |               l_l.dx80.vtx
+        |               l_l.dx90.vtx
+        |               l_l.mdl
+        |               l_l.phy
+        |               l_l.sw.vtx
+        |               l_l.vvd
+        |               l_r.dx80.vtx
+        |               l_r.dx90.vtx
+        |               l_r.mdl
+        |               l_r.phy
+        |               l_r.sw.vtx
+        |               l_r.vvd
+        |               
+        \---r576
+            +---04
+            |   +---dj
+            |   |       l_lx.dx80.vtx
+            |   |       l_lx.dx90.vtx
+            |   |       l_lx.mdl
+            |   |       l_lx.phy
+            |   |       l_lx.sw.vtx
+            |   |       l_lx.vvd
+            |   |       l_rx.dx80.vtx
+            |   |       l_rx.dx90.vtx
+            |   |       l_rx.mdl
+            |   |       l_rx.phy
+            |   |       l_rx.sw.vtx
+            |   |       l_rx.vvd
+            |   |       r_lx.dx80.vtx
+            |   |       r_lx.dx90.vtx
+            |   |       r_lx.mdl
+            |   |       r_lx.phy
+            |   |       r_lx.sw.vtx
+            |   |       r_lx.vvd
+            |   |       r_rx.dx80.vtx
+            |   |       r_rx.dx90.vtx
+            |   |       r_rx.mdl
+            |   |       r_rx.phy
+            |   |       r_rx.sw.vtx
+            |   |       r_rx.vvd
+            |   |       
+            |   +---j
+            |   |       l_l.dx80.vtx
+            |   |       l_l.dx90.vtx
+            |   |       l_l.mdl
+            |   |       l_l.phy
+            |   |       l_l.sw.vtx
+            |   |       l_l.vvd
+            |   |       l_r.dx80.vtx
+            |   |       l_r.dx90.vtx
+            |   |       l_r.mdl
+            |   |       l_r.phy
+            |   |       l_r.sw.vtx
+            |   |       l_r.vvd
+            |   |       r_l.dx80.vtx
+            |   |       r_l.dx90.vtx
+            |   |       r_l.mdl
+            |   |       r_l.phy
+            |   |       r_l.sw.vtx
+            |   |       r_l.vvd
+            |   |       r_r.dx80.vtx
+            |   |       r_r.dx90.vtx
+            |   |       r_r.mdl
+            |   |       r_r.phy
+            |   |       r_r.sw.vtx
+            |   |       r_r.vvd
+            |   |       
+            |   \---n
+            |           l_l.dx80.vtx
+            |           l_l.dx90.vtx
+            |           l_l.mdl
+            |           l_l.phy
+            |           l_l.sw.vtx
+            |           l_l.vvd
+            |           l_r.dx80.vtx
+            |           l_r.dx90.vtx
+            |           l_r.mdl
+            |           l_r.phy
+            |           l_r.sw.vtx
+            |           l_r.vvd
+            |           r_l.dx80.vtx
+            |           r_l.dx90.vtx
+            |           r_l.mdl
+            |           r_l.phy
+            |           r_l.sw.vtx
+            |           r_l.vvd
+            |           r_r.dx80.vtx
+            |           r_r.dx90.vtx
+            |           r_r.mdl
+            |           r_r.phy
+            |           r_r.sw.vtx
+            |           r_r.vvd
+            |           
+            +---44
+            |   \---j
+            |           l_l.dx80.vtx
+            |           l_l.dx90.vtx
+            |           l_l.mdl
+            |           l_l.phy
+            |           l_l.sw.vtx
+            |           l_l.vvd
+            |           l_r.dx80.vtx
+            |           l_r.dx90.vtx
+            |           l_r.mdl
+            |           l_r.phy
+            |           l_r.sw.vtx
+            |           l_r.vvd
+            |           r_l.dx80.vtx
+            |           r_l.dx90.vtx
+            |           r_l.mdl
+            |           r_l.phy
+            |           r_l.sw.vtx
+            |           r_l.vvd
+            |           r_r.dx80.vtx
+            |           r_r.dx90.vtx
+            |           r_r.mdl
+            |           r_r.phy
+            |           r_r.sw.vtx
+            |           r_r.vvd
+            |           
+            +---l14
+            |   \---j
+            |           l_l.dx80.vtx
+            |           l_l.dx90.vtx
+            |           l_l.mdl
+            |           l_l.phy
+            |           l_l.sw.vtx
+            |           l_l.vvd
+            |           l_r.dx80.vtx
+            |           l_r.dx90.vtx
+            |           l_r.mdl
+            |           l_r.phy
+            |           l_r.sw.vtx
+            |           l_r.vvd
+            |           r_l.dx80.vtx
+            |           r_l.dx90.vtx
+            |           r_l.mdl
+            |           r_l.phy
+            |           r_l.sw.vtx
+            |           r_l.vvd
+            |           r_r.dx80.vtx
+            |           r_r.dx90.vtx
+            |           r_r.mdl
+            |           r_r.phy
+            |           r_r.sw.vtx
+            |           r_r.vvd
+            |           
+            +---l24
+            |   +---j
+            |   |       l_l.dx80.vtx
+            |   |       l_l.dx90.vtx
+            |   |       l_l.mdl
+            |   |       l_l.phy
+            |   |       l_l.sw.vtx
+            |   |       l_l.vvd
+            |   |       r_l.dx80.vtx
+            |   |       r_l.dx90.vtx
+            |   |       r_l.mdl
+            |   |       r_l.phy
+            |   |       r_l.sw.vtx
+            |   |       r_l.vvd
+            |   |       r_r.dx80.vtx
+            |   |       r_r.dx90.vtx
+            |   |       r_r.mdl
+            |   |       r_r.phy
+            |   |       r_r.sw.vtx
+            |   |       r_r.vvd
+            |   |       
+            |   \---r
+            |           r_l.dx80.vtx
+            |           r_l.dx90.vtx
+            |           r_l.mdl
+            |           r_l.phy
+            |           r_l.sw.vtx
+            |           r_l.vvd
+            |           r_r.dx80.vtx
+            |           r_r.dx90.vtx
+            |           r_r.mdl
+            |           r_r.phy
+            |           r_r.sw.vtx
+            |           r_r.vvd
+            |           
+            +---r14
+            |   \---j
+            |           l_l.dx80.vtx
+            |           l_l.dx90.vtx
+            |           l_l.mdl
+            |           l_l.phy
+            |           l_l.sw.vtx
+            |           l_l.vvd
+            |           l_r.dx80.vtx
+            |           l_r.dx90.vtx
+            |           l_r.mdl
+            |           l_r.phy
+            |           l_r.sw.vtx
+            |           l_r.vvd
+            |           r_l.dx80.vtx
+            |           r_l.dx90.vtx
+            |           r_l.mdl
+            |           r_l.phy
+            |           r_l.sw.vtx
+            |           r_l.vvd
+            |           r_r.dx80.vtx
+            |           r_r.dx90.vtx
+            |           r_r.mdl
+            |           r_r.phy
+            |           r_r.sw.vtx
+            |           r_r.vvd
+            |           
+            \---r24
+                +---j
+                |       l_l.dx80.vtx
+                |       l_l.dx90.vtx
+                |       l_l.mdl
+                |       l_l.phy
+                |       l_l.sw.vtx
+                |       l_l.vvd
+                |       l_r.dx80.vtx
+                |       l_r.dx90.vtx
+                |       l_r.mdl
+                |       l_r.phy
+                |       l_r.sw.vtx
+                |       l_r.vvd
+                |       r_l.dx80.vtx
+                |       r_l.dx90.vtx
+                |       r_l.mdl
+                |       r_l.phy
+                |       r_l.sw.vtx
+                |       r_l.vvd
+                |       r_r.dx80.vtx
+                |       r_r.dx90.vtx
+                |       r_r.mdl
+                |       r_r.phy
+                |       r_r.sw.vtx
+                |       r_r.vvd
+                |       
+                \---r
+                        l_l.dx80.vtx
+                        l_l.dx90.vtx
+                        l_l.mdl
+                        l_l.phy
+                        l_l.sw.vtx
+                        l_l.vvd
+                        l_r.dx80.vtx
+                        l_r.dx90.vtx
+                        l_r.mdl
+                        l_r.phy
+                        l_r.sw.vtx
+                        l_r.vvd
+                        

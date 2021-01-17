@@ -1,0 +1,448 @@
+Folder PATH listing for volume DATA
+Volume serial number is 82E2-3FFB
+D:.
+|   tree.txt
+|   tree2.txt
+|   
+\---gstp
+    +---cu
+    |   +---r1024
+    |   |       0090.mdl
+    |   |       l0014.mdl
+    |   |       l0024.mdl
+    |   |       l0044.mdl
+    |   |       l1424.mdl
+    |   |       l1444.mdl
+    |   |       l2444.mdl
+    |   |       r0014.mdl
+    |   |       r0024.mdl
+    |   |       r0044.mdl
+    |   |       r1424.mdl
+    |   |       r1444.mdl
+    |   |       r2444.mdl
+    |   |       
+    |   +---r1088
+    |   |       0090.mdl
+    |   |       l0014.mdl
+    |   |       l0024.mdl
+    |   |       l0044.mdl
+    |   |       l1424.mdl
+    |   |       l1444.mdl
+    |   |       l2444.mdl
+    |   |       r0014.mdl
+    |   |       r0024.mdl
+    |   |       r0044.mdl
+    |   |       r1424.mdl
+    |   |       r1444.mdl
+    |   |       r2444.mdl
+    |   |       
+    |   +---r1536
+    |   |       0090.mdl
+    |   |       l0014.mdl
+    |   |       l0024.mdl
+    |   |       l0044.mdl
+    |   |       l1424.mdl
+    |   |       l1444.mdl
+    |   |       l2444.mdl
+    |   |       r0014.mdl
+    |   |       r0024.mdl
+    |   |       r0044.mdl
+    |   |       r1424.mdl
+    |   |       r1444.mdl
+    |   |       r2444.mdl
+    |   |       r_r.mdl
+    |   |       
+    |   +---r1600
+    |   |       0090.mdl
+    |   |       l0014.mdl
+    |   |       l0024.mdl
+    |   |       l0044.mdl
+    |   |       l1424.mdl
+    |   |       l1444.mdl
+    |   |       l2444.mdl
+    |   |       r0014.mdl
+    |   |       r0024.mdl
+    |   |       r0044.mdl
+    |   |       r1424.mdl
+    |   |       r1444.mdl
+    |   |       r2444.mdl
+    |   |       r_r.mdl
+    |   |       r_rx.mdl
+    |   |       
+    |   +---r512
+    |   |       0090.mdl
+    |   |       l0014.mdl
+    |   |       l0024.mdl
+    |   |       l0044.mdl
+    |   |       l1424.mdl
+    |   |       l1444.mdl
+    |   |       l2444.mdl
+    |   |       ls.mdl
+    |   |       r0014.mdl
+    |   |       r0024.mdl
+    |   |       r0044.mdl
+    |   |       r1424.mdl
+    |   |       r1444.mdl
+    |   |       r2444.mdl
+    |   |       rs.mdl
+    |   |       
+    |   \---r576
+    |           0090.mdl
+    |           l0014.mdl
+    |           l0024.mdl
+    |           l0044.mdl
+    |           l1424.mdl
+    |           l1444.mdl
+    |           l2444.mdl
+    |           ls.mdl
+    |           r0014.mdl
+    |           r0024.mdl
+    |           r0044.mdl
+    |           r1424.mdl
+    |           r1444.mdl
+    |           r2444.mdl
+    |           rs.mdl
+    |           
+    +---gr
+    |   +---04
+    |   |   |   1024.mdl
+    |   |   |   128.mdl
+    |   |   |   256.mdl
+    |   |   |   32.mdl
+    |   |   |   512.mdl
+    |   |   |   64.mdl
+    |   |   |   
+    |   |   \---64
+    |   |           64.mdl
+    |   |           
+    |   +---44
+    |   |   |   1024.mdl
+    |   |   |   128.mdl
+    |   |   |   256.mdl
+    |   |   |   32.mdl
+    |   |   |   512.mdl
+    |   |   |   64.mdl
+    |   |   |   
+    |   |   \---64
+    |   |           64.mdl
+    |   |           
+    |   +---l14
+    |   |   |   1024.mdl
+    |   |   |   128.mdl
+    |   |   |   256.mdl
+    |   |   |   32.mdl
+    |   |   |   512.mdl
+    |   |   |   64.mdl
+    |   |   |   
+    |   |   \---64
+    |   |           64.mdl
+    |   |           
+    |   +---l24
+    |   |   |   1024.mdl
+    |   |   |   128.mdl
+    |   |   |   256.mdl
+    |   |   |   32.mdl
+    |   |   |   512.mdl
+    |   |   |   64.mdl
+    |   |   |   
+    |   |   \---64
+    |   |           64.mdl
+    |   |           
+    |   +---r14
+    |   |   |   1024.mdl
+    |   |   |   128.mdl
+    |   |   |   256.mdl
+    |   |   |   32.mdl
+    |   |   |   512.mdl
+    |   |   |   64.mdl
+    |   |   |   
+    |   |   \---64
+    |   |           64.mdl
+    |   |           
+    |   \---r24
+    |       |   1024.mdl
+    |       |   128.mdl
+    |       |   256.mdl
+    |       |   32.mdl
+    |       |   512.mdl
+    |       |   64.mdl
+    |       |   
+    |       \---64
+    |               64.mdl
+    |               
+    +---mi
+    |   |   04_trigger.mdl
+    |   |   44_trigger.mdl
+    |   |   l14_trigger.mdl
+    |   |   l24_trigger.mdl
+    |   |   r14_trigger.mdl
+    |   |   r24_trigger.mdl
+    |   |   slider.mdl
+    |   |   slider_16.mdl
+    |   |   slider_24.mdl
+    |   |   slider_32.mdl
+    |   |   slider_8.mdl
+    |   |   
+    |   +---04
+    |   |       drawbridge.mdl
+    |   |       drawbridgebase.mdl
+    |   |       sleeper.mdl
+    |   |       sleeperh.mdl
+    |   |       swl.mdl
+    |   |       swr.mdl
+    |   |       trackend.mdl
+    |   |       x90x.mdl
+    |   |       x90y.mdl
+    |   |       
+    |   +---44
+    |   |       sleeper.mdl
+    |   |       sleeperh.mdl
+    |   |       trackend.mdl
+    |   |       
+    |   +---l14
+    |   |       115.mdl
+    |   |       sleeperh.mdl
+    |   |       swl.mdl
+    |   |       swr.mdl
+    |   |       trackend.mdl
+    |   |       
+    |   +---l24
+    |   |       sleeper.mdl
+    |   |       sleeperh.mdl
+    |   |       trackend.mdl
+    |   |       
+    |   +---r14
+    |   |       115.mdl
+    |   |       sleeperh.mdl
+    |   |       swl.mdl
+    |   |       swr.mdl
+    |   |       trackend.mdl
+    |   |       
+    |   \---r24
+    |           sleeper.mdl
+    |           sleeperh.mdl
+    |           trackend.mdl
+    |           
+    +---st
+    |   +---04
+    |   |       1.mdl
+    |   |       1024.mdl
+    |   |       128.mdl
+    |   |       128_l1.mdl
+    |   |       128_r1.mdl
+    |   |       16.mdl
+    |   |       16x2.mdl
+    |   |       2.mdl
+    |   |       256.mdl
+    |   |       32.mdl
+    |   |       4.mdl
+    |   |       512.mdl
+    |   |       64.mdl
+    |   |       8.mdl
+    |   |       
+    |   +---24
+    |   |       l16.mdl
+    |   |       r16.mdl
+    |   |       r8.mdl
+    |   |       
+    |   +---44
+    |   |       1024.mdl
+    |   |       128.mdl
+    |   |       16.mdl
+    |   |       256.mdl
+    |   |       32.mdl
+    |   |       4.mdl
+    |   |       512.mdl
+    |   |       64.mdl
+    |   |       8.mdl
+    |   |       
+    |   +---l14
+    |   |       1024.mdl
+    |   |       128.mdl
+    |   |       16.mdl
+    |   |       256.mdl
+    |   |       32.mdl
+    |   |       4.mdl
+    |   |       512.mdl
+    |   |       64.mdl
+    |   |       8.mdl
+    |   |       
+    |   +---l24
+    |   |       1024.mdl
+    |   |       128.mdl
+    |   |       256.mdl
+    |   |       32.mdl
+    |   |       4.mdl
+    |   |       512.mdl
+    |   |       64.mdl
+    |   |       8.mdl
+    |   |       
+    |   +---r14
+    |   |       1024.mdl
+    |   |       128.mdl
+    |   |       16.mdl
+    |   |       256.mdl
+    |   |       32.mdl
+    |   |       4.mdl
+    |   |       512.mdl
+    |   |       64.mdl
+    |   |       8.mdl
+    |   |       
+    |   \---r24
+    |           1024.mdl
+    |           128.mdl
+    |           256.mdl
+    |           32.mdl
+    |           4.mdl
+    |           512.mdl
+    |           64.mdl
+    |           8.mdl
+    |           
+    +---tr
+    |   |   transfer_table_512.mdl
+    |   |   
+    |   \---04
+    |           128.mdl
+    |           256.mdl
+    |           512.mdl
+    |           64.mdl
+    |           trackend.mdl
+    |           trusstrack.mdl
+    |           trusstransfer.mdl
+    |           
+    \---tu
+        +---r1536
+        |   \---04
+        |       \---j
+        |               l_l.mdl
+        |               l_r.mdl
+        |               r_l.mdl
+        |               r_r.mdl
+        |               
+        +---r1600
+        |   \---04
+        |       +---dj
+        |       |       l_lx.mdl
+        |       |       l_rx.mdl
+        |       |       r_lx.mdl
+        |       |       r_rx.mdl
+        |       |       
+        |       \---j
+        |               l_l.mdl
+        |               l_r.mdl
+        |               r_l.mdl
+        |               r_r.mdl
+        |               
+        +---r512
+        |   +---04
+        |   |   \---j
+        |   |           l_l.mdl
+        |   |           l_r.mdl
+        |   |           r_l.mdl
+        |   |           r_r.mdl
+        |   |           
+        |   +---44
+        |   |   \---j
+        |   |           l_l.mdl
+        |   |           l_r.mdl
+        |   |           r_l.mdl
+        |   |           r_r.mdl
+        |   |           
+        |   +---l14
+        |   |   \---j
+        |   |           l_l.mdl
+        |   |           l_r.mdl
+        |   |           r_l.mdl
+        |   |           r_r.mdl
+        |   |           
+        |   +---l24
+        |   |   +---j
+        |   |   |       l_l.mdl
+        |   |   |       l_r.mdl
+        |   |   |       r_l.mdl
+        |   |   |       r_r.mdl
+        |   |   |       
+        |   |   \---r
+        |   |           r_l.mdl
+        |   |           r_r.mdl
+        |   |           
+        |   +---r14
+        |   |   \---j
+        |   |           l_l.mdl
+        |   |           l_r.mdl
+        |   |           r_l.mdl
+        |   |           r_r.mdl
+        |   |           
+        |   \---r24
+        |       +---j
+        |       |       l_l.mdl
+        |       |       l_r.mdl
+        |       |       r_l.mdl
+        |       |       r_r.mdl
+        |       |       
+        |       \---r
+        |               l_l.mdl
+        |               l_r.mdl
+        |               
+        \---r576
+            +---04
+            |   +---dj
+            |   |       l_lx.mdl
+            |   |       l_rx.mdl
+            |   |       r_lx.mdl
+            |   |       r_rx.mdl
+            |   |       
+            |   +---j
+            |   |       l_l.mdl
+            |   |       l_r.mdl
+            |   |       r_l.mdl
+            |   |       r_r.mdl
+            |   |       
+            |   \---n
+            |           l_l.mdl
+            |           l_r.mdl
+            |           r_l.mdl
+            |           r_r.mdl
+            |           
+            +---44
+            |   \---j
+            |           l_l.mdl
+            |           l_r.mdl
+            |           r_l.mdl
+            |           r_r.mdl
+            |           
+            +---l14
+            |   \---j
+            |           l_l.mdl
+            |           l_r.mdl
+            |           r_l.mdl
+            |           r_r.mdl
+            |           
+            +---l24
+            |   +---j
+            |   |       l_l.mdl
+            |   |       r_l.mdl
+            |   |       r_r.mdl
+            |   |       
+            |   \---r
+            |           r_l.mdl
+            |           r_r.mdl
+            |           
+            +---r14
+            |   \---j
+            |           l_l.mdl
+            |           l_r.mdl
+            |           r_l.mdl
+            |           r_r.mdl
+            |           
+            \---r24
+                +---j
+                |       l_l.mdl
+                |       l_r.mdl
+                |       r_l.mdl
+                |       r_r.mdl
+                |       
+                \---r
+                        l_l.mdl
+                        l_r.mdl
+                        
