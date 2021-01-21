@@ -12,7 +12,7 @@ If you think the feature would require a new folder, prefix it with that new fol
 Prefix your feature title with the _folder name_ you think would fit and a backslash (\) .
 `mi\`  
 
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+A clear and concise description of what the problem is. Ex. This would be a really goof part because [...]
 
 Solution:
 
