@@ -1,6 +1,7 @@
 # [Visit the Wiki tab to see information relevant to mappers.](https://github.com/mbqwertyaaa/gstp/wiki#mapping)
   
   Note: No raw files are available on this repo, only compiled models and vmf templates for mapping.  
+  [Workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=2370393604)
   
 Filepaths
 > source .vmf 
