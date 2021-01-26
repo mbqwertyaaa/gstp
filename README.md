@@ -3,6 +3,9 @@
   Note: No raw files are available on this repo, only compiled models and vmf templates for mapping.  
   [Workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=2370393604)
   
+### Branches:  
+The repo is branched when updates are made that are not going to be published to the workshop. When a branch is closed, that version is pushed to the workshop.
+  
 Filepaths
 > source .vmf 
 > > common/propsource/gstp/
