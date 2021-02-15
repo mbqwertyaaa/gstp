@@ -880,6 +880,12 @@ D:.
     |   |       drawbridgebase.phy
     |   |       drawbridgebase.sw.vtx
     |   |       drawbridgebase.vvd
+    |   |       rsg_1024.dx80.vtx
+    |   |       rsg_1024.dx90.vtx
+    |   |       rsg_1024.mdl
+    |   |       rsg_1024.phy
+    |   |       rsg_1024.sw.vtx
+    |   |       rsg_1024.vvd
     |   |       sleeper.dx80.vtx
     |   |       sleeper.dx90.vtx
     |   |       sleeper.mdl
@@ -1117,26 +1123,6 @@ D:.
     |   |       8.phy
     |   |       8.sw.vtx
     |   |       8.vvd
-    |   |       
-    |   +---24
-    |   |       l16.dx80.vtx
-    |   |       l16.dx90.vtx
-    |   |       l16.mdl
-    |   |       l16.phy
-    |   |       l16.sw.vtx
-    |   |       l16.vvd
-    |   |       r16.dx80.vtx
-    |   |       r16.dx90.vtx
-    |   |       r16.mdl
-    |   |       r16.phy
-    |   |       r16.sw.vtx
-    |   |       r16.vvd
-    |   |       r8.dx80.vtx
-    |   |       r8.dx90.vtx
-    |   |       r8.mdl
-    |   |       r8.phy
-    |   |       r8.sw.vtx
-    |   |       r8.vvd
     |   |       
     |   +---44
     |   |       1024.dx80.vtx
@@ -1407,6 +1393,17 @@ D:.
     |           8.vvd
     |           
     +---tr
+    |   |   rail_table_382.dx80.vtx
+    |   |   rail_table_382.dx90.vtx
+    |   |   rail_table_382.mdl
+    |   |   rail_table_382.sw.vtx
+    |   |   rail_table_382.vvd
+    |   |   rollingstock_table_512.dx80.vtx
+    |   |   rollingstock_table_512.dx90.vtx
+    |   |   rollingstock_table_512.mdl
+    |   |   rollingstock_table_512.phy
+    |   |   rollingstock_table_512.sw.vtx
+    |   |   rollingstock_table_512.vvd
     |   |   transfer_table_512.dx80.vtx
     |   |   transfer_table_512.dx90.vtx
     |   |   transfer_table_512.mdl
@@ -1414,49 +1411,71 @@ D:.
     |   |   transfer_table_512.sw.vtx
     |   |   transfer_table_512.vvd
     |   |   
-    |   \---04
-    |           128.dx80.vtx
-    |           128.dx90.vtx
-    |           128.mdl
-    |           128.phy
-    |           128.sw.vtx
-    |           128.vvd
-    |           256.dx80.vtx
-    |           256.dx90.vtx
-    |           256.mdl
-    |           256.phy
-    |           256.sw.vtx
-    |           256.vvd
-    |           512.dx80.vtx
-    |           512.dx90.vtx
-    |           512.mdl
-    |           512.phy
-    |           512.sw.vtx
-    |           512.vvd
-    |           64.dx80.vtx
-    |           64.dx90.vtx
-    |           64.mdl
-    |           64.phy
-    |           64.sw.vtx
-    |           64.vvd
-    |           trackend.dx80.vtx
-    |           trackend.dx90.vtx
-    |           trackend.mdl
-    |           trackend.phy
-    |           trackend.sw.vtx
-    |           trackend.vvd
-    |           trusstrack.dx80.vtx
-    |           trusstrack.dx90.vtx
-    |           trusstrack.mdl
-    |           trusstrack.phy
-    |           trusstrack.sw.vtx
-    |           trusstrack.vvd
-    |           trusstransfer.dx80.vtx
-    |           trusstransfer.dx90.vtx
-    |           trusstransfer.mdl
-    |           trusstransfer.phy
-    |           trusstransfer.sw.vtx
-    |           trusstransfer.vvd
+    |   +---04
+    |   |       128.dx80.vtx
+    |   |       128.dx90.vtx
+    |   |       128.mdl
+    |   |       128.phy
+    |   |       128.sw.vtx
+    |   |       128.vvd
+    |   |       256.dx80.vtx
+    |   |       256.dx90.vtx
+    |   |       256.mdl
+    |   |       256.phy
+    |   |       256.sw.vtx
+    |   |       256.vvd
+    |   |       512.dx80.vtx
+    |   |       512.dx90.vtx
+    |   |       512.mdl
+    |   |       512.phy
+    |   |       512.sw.vtx
+    |   |       512.vvd
+    |   |       64.dx80.vtx
+    |   |       64.dx90.vtx
+    |   |       64.mdl
+    |   |       64.phy
+    |   |       64.sw.vtx
+    |   |       64.vvd
+    |   |       64_turntable_entrance.dx80.vtx
+    |   |       64_turntable_entrance.dx90.vtx
+    |   |       64_turntable_entrance.mdl
+    |   |       64_turntable_entrance.phy
+    |   |       64_turntable_entrance.sw.vtx
+    |   |       64_turntable_entrance.vvd
+    |   |       trackend.dx80.vtx
+    |   |       trackend.dx90.vtx
+    |   |       trackend.mdl
+    |   |       trackend.phy
+    |   |       trackend.sw.vtx
+    |   |       trackend.vvd
+    |   |       trusstrack.dx80.vtx
+    |   |       trusstrack.dx90.vtx
+    |   |       trusstrack.mdl
+    |   |       trusstrack.phy
+    |   |       trusstrack.sw.vtx
+    |   |       trusstrack.vvd
+    |   |       trusstransfer.dx80.vtx
+    |   |       trusstransfer.dx90.vtx
+    |   |       trusstransfer.mdl
+    |   |       trusstransfer.phy
+    |   |       trusstransfer.sw.vtx
+    |   |       trusstransfer.vvd
+    |   |       
+    |   +---l14
+    |   |       64_turntable_entrance.dx80.vtx
+    |   |       64_turntable_entrance.dx90.vtx
+    |   |       64_turntable_entrance.mdl
+    |   |       64_turntable_entrance.phy
+    |   |       64_turntable_entrance.sw.vtx
+    |   |       64_turntable_entrance.vvd
+    |   |       
+    |   \---r14
+    |           64_turntable_entrance.dx80.vtx
+    |           64_turntable_entrance.dx90.vtx
+    |           64_turntable_entrance.mdl
+    |           64_turntable_entrance.phy
+    |           64_turntable_entrance.sw.vtx
+    |           64_turntable_entrance.vvd
     |           
     \---tu
         +---r1536

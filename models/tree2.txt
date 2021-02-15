@@ -186,6 +186,7 @@ D:.
     |   +---04
     |   |       drawbridge.mdl
     |   |       drawbridgebase.mdl
+    |   |       rsg_1024.mdl
     |   |       sleeper.mdl
     |   |       sleeperh.mdl
     |   |       swl.mdl
@@ -239,11 +240,6 @@ D:.
     |   |       512.mdl
     |   |       64.mdl
     |   |       8.mdl
-    |   |       
-    |   +---24
-    |   |       l16.mdl
-    |   |       r16.mdl
-    |   |       r8.mdl
     |   |       
     |   +---44
     |   |       1024.mdl
@@ -299,16 +295,25 @@ D:.
     |           8.mdl
     |           
     +---tr
+    |   |   rail_table_382.mdl
+    |   |   rollingstock_table_512.mdl
     |   |   transfer_table_512.mdl
     |   |   
-    |   \---04
-    |           128.mdl
-    |           256.mdl
-    |           512.mdl
-    |           64.mdl
-    |           trackend.mdl
-    |           trusstrack.mdl
-    |           trusstransfer.mdl
+    |   +---04
+    |   |       128.mdl
+    |   |       256.mdl
+    |   |       512.mdl
+    |   |       64.mdl
+    |   |       64_turntable_entrance.mdl
+    |   |       trackend.mdl
+    |   |       trusstrack.mdl
+    |   |       trusstransfer.mdl
+    |   |       
+    |   +---l14
+    |   |       64_turntable_entrance.mdl
+    |   |       
+    |   \---r14
+    |           64_turntable_entrance.mdl
     |           
     \---tu
         +---r1536
